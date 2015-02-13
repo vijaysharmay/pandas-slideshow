@@ -1,0 +1,11948 @@
+(dp0
+Vtt0401792
+p1
+(lp2
+(dp3
+S'name'
+p4
+VBruce Willis
+p5
+sS'tmdb_id'
+p6
+I62
+sS'imdb_id'
+p7
+Vnm0000246
+p8
+sa(dp9
+g4
+VMickey Rourke
+p10
+sg6
+I2295
+sg7
+Vnm0000620
+p11
+sa(dp12
+g4
+VClive Owen
+p13
+sg6
+I2296
+sg7
+Vnm0654110
+p14
+sa(dp15
+g4
+VJessica Alba
+p16
+sg6
+I56731
+sg7
+Vnm0004695
+p17
+sa(dp18
+g4
+VElijah Wood
+p19
+sg6
+I109
+sg7
+Vnm0000704
+p20
+sasVtt0047478
+p21
+(lp22
+(dp23
+g4
+VToshir\u014d Mifune
+p24
+sg6
+I7450
+sg7
+Vnm0001536
+p25
+sa(dp26
+g4
+VTakashi Shimura
+p27
+sg6
+I7453
+sg7
+Vnm0793766
+p28
+sa(dp29
+g4
+VYoshio Inaba
+p30
+sg6
+I20828
+sg7
+Vnm0408343
+p31
+sa(dp32
+g4
+VSeiji Miyaguchi
+p33
+sg6
+I20829
+sg7
+Vnm0594348
+p34
+sa(dp35
+g4
+VMinoru Chiaki
+p36
+sg6
+I7454
+sg7
+Vnm0156928
+p37
+sasVtt0892769
+p38
+(lp39
+(dp40
+g4
+VJay Baruchel
+p41
+sg6
+I449
+sg7
+Vnm0059431
+p42
+sa(dp43
+g4
+VGerard Butler
+p44
+sg6
+I17276
+sg7
+Vnm0124930
+p45
+sa(dp46
+g4
+VCraig Ferguson
+p47
+sg6
+I24264
+sg7
+Vnm0272401
+p48
+sa(dp49
+g4
+VAmerica Ferrera
+p50
+sg6
+I59174
+sg7
+Vnm1065229
+p51
+sa(dp52
+g4
+VJonah Hill
+p53
+sg6
+I21007
+sg7
+Vnm1706767
+p54
+sasVtt0050212
+p55
+(lp56
+(dp57
+g4
+VWilliam Holden
+p58
+sg6
+I8252
+sg7
+Vnm0000034
+p59
+sa(dp60
+g4
+VAlec Guinness
+p61
+sg6
+I12248
+sg7
+Vnm0000027
+p62
+sa(dp63
+g4
+VJack Hawkins
+p64
+sg6
+I10018
+sg7
+Vnm0370144
+p65
+sa(dp66
+g4
+VSessue Hayakawa
+p67
+sg6
+I12249
+sg7
+Vnm0370564
+p68
+sa(dp69
+g4
+VJames Donald
+p70
+sg6
+I12250
+sg7
+Vnm0232019
+p71
+sasVtt0381681
+p72
+(lp73
+(dp74
+g4
+VEthan Hawke
+p75
+sg6
+I569
+sg7
+Vnm0000160
+p76
+sa(dp77
+g4
+VJulie Delpy
+p78
+sg6
+I1146
+sg7
+Vnm0000365
+p79
+sa(dp80
+g4
+VVernon Dobtcheff
+p81
+sg6
+I649
+sg7
+Vnm0229943
+p82
+sa(dp83
+g4
+VLouise Lemoine Torrès
+p84
+sg6
+I651
+sg7
+Vnm1594387
+p85
+sa(dp86
+g4
+VRodolphe Pauly
+p87
+sg6
+I1275639
+sg7
+V
+p88
+sasVtt0042192
+p89
+(lp90
+(dp91
+g4
+VBette Davis
+p92
+sg6
+I3380
+sg7
+Vnm0000012
+p93
+sa(dp94
+g4
+VAnne Baxter
+p95
+sg6
+I10606
+sg7
+Vnm0000879
+p96
+sa(dp97
+g4
+VGeorge Sanders
+p98
+sg6
+I3361
+sg7
+Vnm0001695
+p99
+sa(dp100
+g4
+VCeleste Holm
+p101
+sg6
+I10607
+sg7
+Vnm0002141
+p102
+sa(dp103
+g4
+VGary Merrill
+p104
+sg6
+I10608
+sg7
+Vnm0581282
+p105
+sasVtt0048424
+p106
+(lp107
+(dp108
+g4
+VRobert Mitchum
+p109
+sg6
+I10158
+sg7
+Vnm0000053
+p110
+sa(dp111
+g4
+VShelley Winters
+p112
+sg6
+I7632
+sg7
+Vnm0001859
+p113
+sa(dp114
+g4
+VLillian Gish
+p115
+sg6
+I8828
+sg7
+Vnm0001273
+p116
+sa(dp117
+g4
+VJames Gleason
+p118
+sg6
+I30537
+sg7
+Vnm0322299
+p119
+sa(dp120
+g4
+VEvelyn Varden
+p121
+sg6
+I30538
+sg7
+Vnm0889537
+p122
+sasVtt0986264
+p123
+(lp124
+(dp125
+g4
+VDarsheel Safary
+p126
+sg6
+I52764
+sg7
+Vnm2594301
+p127
+sa(dp128
+g4
+VAamir Khan
+p129
+sg6
+I52763
+sg7
+Vnm0451148
+p130
+sa(dp131
+g4
+VTisca Chopra
+p132
+sg6
+I52766
+sg7
+Vnm1538116
+p133
+sa(dp134
+g4
+VVipin Sharma
+p135
+sg6
+I52768
+sg7
+Vnm1479650
+p136
+sa(dp137
+g4
+VSachet Engineer
+p138
+sg6
+I52770
+sg7
+Vnm3222518
+p139
+sasVtt0292490
+p140
+(lp141
+(dp142
+g4
+VAamir Khan
+p143
+sg6
+I52763
+sg7
+Vnm0451148
+p144
+sa(dp145
+g4
+VSaif Ali Khan
+p146
+sg6
+I35747
+sg7
+Vnm0451307
+p147
+sa(dp148
+g4
+VAkshaye Khanna
+p149
+sg6
+I87328
+sg7
+Vnm0451379
+p150
+sa(dp151
+g4
+VPreity Zinta
+p152
+sg6
+I35745
+sg7
+Vnm0006689
+p153
+sa(dp154
+g4
+VSonali Kulkarni
+p155
+sg6
+I78920
+sg7
+Vnm0006764
+p156
+sasVtt0338564
+p157
+(lp158
+(dp159
+g4
+VAndy Lau
+p160
+sg6
+I25246
+sg7
+Vnm0490489
+p161
+sa(dp162
+g4
+VTony Leung Chiu-Wai
+p163
+sg6
+I1337
+sg7
+Vnm0504897
+p164
+sa(dp165
+g4
+VAnthony Wong
+p166
+sg6
+I66717
+sg7
+Vnm0938893
+p167
+sa(dp168
+g4
+VEric Tsang
+p169
+sg6
+I26724
+sg7
+Vnm0874676
+p170
+sa(dp171
+g4
+VKelly Chen
+p172
+sg6
+I72730
+sg7
+Vnm0155284
+p173
+sasVtt1375666
+p174
+(lp175
+(dp176
+g4
+VLeonardo DiCaprio
+p177
+sg6
+I6193
+sg7
+Vnm0000138
+p178
+sa(dp179
+g4
+VJoseph Gordon-Levitt
+p180
+sg6
+I24045
+sg7
+Vnm0330687
+p181
+sa(dp182
+g4
+VEllen Page
+p183
+sg6
+I27578
+sg7
+Vnm0680983
+p184
+sa(dp185
+g4
+VTom Hardy
+p186
+sg6
+I2524
+sg7
+Vnm0362766
+p187
+sa(dp188
+g4
+VKen Watanabe
+p189
+sg6
+I3899
+sg7
+Vnm0913822
+p190
+sasVtt0046268
+p191
+(lp192
+(dp193
+g4
+VYves Montand
+p194
+sg6
+I2565
+sg7
+Vnm0598971
+p195
+sa(dp196
+g4
+VCharles Vanel
+p197
+sg6
+I2566
+sg7
+Vnm0889024
+p198
+sa(dp199
+g4
+VPeter van Eyck
+p200
+sg6
+I2567
+sg7
+Vnm0886870
+p201
+sa(dp202
+g4
+VFolco Lulli
+p203
+sg6
+I2568
+sg7
+Vnm0525793
+p204
+sa(dp205
+g4
+VVéra Clouzot
+p206
+sg6
+I2569
+sg7
+Vnm0167243
+p207
+sasVtt0055630
+p208
+(lp209
+(dp210
+g4
+VToshir\u014d Mifune
+p211
+sg6
+I7450
+sg7
+Vnm0001536
+p212
+sa(dp213
+g4
+VTatsuya Nakadai
+p214
+sg6
+I70131
+sg7
+Vnm0619938
+p215
+sa(dp216
+g4
+VYôko Tsukasa
+p217
+sg6
+I70811
+sg7
+Vnm0875362
+p218
+sa(dp219
+g4
+VIsuzu Yamada
+p220
+sg6
+I33761
+sg7
+Vnm0945222
+p221
+sa(dp222
+g4
+VDaisuke Katô
+p223
+sg6
+I7457
+sg7
+Vnm0441961
+p224
+sasVtt0266543
+p225
+(lp226
+(dp227
+g4
+VAlbert Brooks
+p228
+sg6
+I13
+sg7
+Vnm0000983
+p229
+sa(dp230
+g4
+VEllen DeGeneres
+p231
+sg6
+I14
+sg7
+Vnm0001122
+p232
+sa(dp233
+g4
+VAlexander Gould
+p234
+sg6
+I12
+sg7
+Vnm1071252
+p235
+sa(dp236
+g4
+VWillem Dafoe
+p237
+sg6
+I5293
+sg7
+Vnm0000353
+p238
+sa(dp239
+g4
+VBrad Garrett
+p240
+sg6
+I18
+sg7
+Vnm0004951
+p241
+sasVtt0097576
+p242
+(lp243
+(dp244
+g4
+VHarrison Ford
+p245
+sg6
+I3
+sg7
+Vnm0000148
+p246
+sa(dp247
+g4
+VSean Connery
+p248
+sg6
+I738
+sg7
+Vnm0000125
+p249
+sa(dp250
+g4
+VDenholm Elliott
+p251
+sg6
+I656
+sg7
+Vnm0001186
+p252
+sa(dp253
+g4
+VAlison Doody
+p254
+sg6
+I739
+sg7
+Vnm0233145
+p255
+sa(dp256
+g4
+VJohn Rhys-Davies
+p257
+sg6
+I655
+sg7
+Vnm0722636
+p258
+sasVtt0198781
+p259
+(lp260
+(dp261
+g4
+VJohn Goodman
+p262
+sg6
+I1230
+sg7
+Vnm0000422
+p263
+sa(dp264
+g4
+VBilly Crystal
+p265
+sg6
+I7904
+sg7
+Vnm0000345
+p266
+sa(dp267
+g4
+VMary Gibbs
+p268
+sg6
+I7905
+sg7
+Vnm0316701
+p269
+sa(dp270
+g4
+VSteve Buscemi
+p271
+sg6
+I884
+sg7
+Vnm0000114
+p272
+sa(dp273
+g4
+VJames Coburn
+p274
+sg6
+I5563
+sg7
+Vnm0000336
+p275
+sasVtt1979320
+p276
+(lp277
+(dp278
+g4
+VDaniel Brühl
+p279
+sg6
+I3872
+sg7
+Vnm0117709
+p280
+sa(dp281
+g4
+VChris Hemsworth
+p282
+sg6
+I74568
+sg7
+Vnm1165110
+p283
+sa(dp284
+g4
+VOlivia Wilde
+p285
+sg6
+I59315
+sg7
+Vnm1312575
+p286
+sa(dp287
+g4
+VAlexandra Maria Lara
+p288
+sg6
+I5644
+sg7
+Vnm0487884
+p289
+sa(dp290
+g4
+VNatalie Dormer
+p291
+sg6
+I58502
+sg7
+Vnm1754059
+p292
+sasVtt0057115
+p293
+(lp294
+(dp295
+g4
+VSteve McQueen
+p296
+sg6
+I13565
+sg7
+Vnm0000537
+p297
+sa(dp298
+g4
+VJames Garner
+p299
+sg6
+I16896
+sg7
+Vnm0001258
+p300
+sa(dp301
+g4
+VRichard Attenborough
+p302
+sg6
+I4786
+sg7
+Vnm0000277
+p303
+sa(dp304
+g4
+VJames Donald
+p305
+sg6
+I12250
+sg7
+Vnm0232019
+p306
+sa(dp307
+g4
+VCharles Bronson
+p308
+sg6
+I4960
+sg7
+Vnm0000314
+p309
+sasVtt0253474
+p310
+(lp311
+(dp312
+g4
+VAdrien Brody
+p313
+sg6
+I3490
+sg7
+Vnm0004778
+p314
+sa(dp315
+g4
+VThomas Kretschmann
+p316
+sg6
+I3491
+sg7
+Vnm0470981
+p317
+sa(dp318
+g4
+VFrank Finlay
+p319
+sg6
+I6637
+sg7
+Vnm0277975
+p320
+sa(dp321
+g4
+VMaureen Lipman
+p322
+sg6
+I6638
+sg7
+Vnm0513520
+p323
+sa(dp324
+g4
+VEmilia Fox
+p325
+sg6
+I6639
+sg7
+Vnm0288976
+p326
+sasVtt0071315
+p327
+(lp328
+(dp329
+g4
+VJack Nicholson
+p330
+sg6
+I514
+sg7
+Vnm0000197
+p331
+sa(dp332
+g4
+VFaye Dunaway
+p333
+sg6
+I6450
+sg7
+Vnm0001159
+p334
+sa(dp335
+g4
+VJohn Huston
+p336
+sg6
+I6593
+sg7
+Vnm0001379
+p337
+sa(dp338
+g4
+VPerry Lopez
+p339
+sg6
+I12295
+sg7
+Vnm0520164
+p340
+sa(dp341
+g4
+VJohn Hillerman
+p342
+sg6
+I12296
+sg7
+Vnm0384916
+p343
+sasVtt0114746
+p344
+(lp345
+(dp346
+g4
+VBruce Willis
+p347
+sg6
+I62
+sg7
+Vnm0000246
+p348
+sa(dp349
+g4
+VMadeleine Stowe
+p350
+sg6
+I289
+sg7
+Vnm0000656
+p351
+sa(dp352
+g4
+VBrad Pitt
+p353
+sg6
+I287
+sg7
+Vnm0000093
+p354
+sa(dp355
+g4
+VChristopher Plummer
+p356
+sg6
+I290
+sg7
+Vnm0001626
+p357
+sa(dp358
+g4
+VDavid Morse
+p359
+sg6
+I52
+sg7
+Vnm0001556
+p360
+sasVtt0060196
+p361
+(lp362
+(dp363
+g4
+VEli Wallach
+p364
+sg6
+I3265
+sg7
+Vnm0908919
+p365
+sa(dp366
+g4
+VClint Eastwood
+p367
+sg6
+I190
+sg7
+Vnm0000142
+p368
+sa(dp369
+g4
+VLee Van Cleef
+p370
+sg6
+I4078
+sg7
+Vnm0001812
+p371
+sa(dp372
+g4
+VAldo Giuffrè
+p373
+sg6
+I5813
+sg7
+Vnm0321294
+p374
+sa(dp375
+g4
+VLuigi Pistilli
+p376
+sg6
+I5814
+sg7
+Vnm0685559
+p377
+sasVtt0363163
+p378
+(lp379
+(dp380
+g4
+VBruno Ganz
+p381
+sg6
+I2310
+sg7
+Vnm0004486
+p382
+sa(dp383
+g4
+VAlexandra Maria Lara
+p384
+sg6
+I5644
+sg7
+Vnm0487884
+p385
+sa(dp386
+g4
+VCorinna Harfouch
+p387
+sg6
+I680
+sg7
+Vnm0362896
+p388
+sa(dp389
+g4
+VUlrich Matthes
+p390
+sg6
+I8796
+sg7
+Vnm0559890
+p391
+sa(dp392
+g4
+VJuliane Köhler
+p393
+sg6
+I8797
+sg7
+Vnm0477810
+p394
+sasVtt2024544
+p395
+(lp396
+(dp397
+g4
+VChiwetel Ejiofor
+p398
+sg6
+I5294
+sg7
+Vnm0252230
+p399
+sa(dp400
+g4
+VMichael Fassbender
+p401
+sg6
+I17288
+sg7
+Vnm1055413
+p402
+sa(dp403
+g4
+VBenedict Cumberbatch
+p404
+sg6
+I71580
+sg7
+Vnm1212722
+p405
+sa(dp406
+g4
+VPaul Dano
+p407
+sg6
+I17142
+sg7
+Vnm0200452
+p408
+sa(dp409
+g4
+VPaul Giamatti
+p410
+sg6
+I13242
+sg7
+Vnm0316079
+p411
+sasVtt0993846
+p412
+(lp413
+(dp414
+g4
+VLeonardo DiCaprio
+p415
+sg6
+I6193
+sg7
+Vnm0000138
+p416
+sa(dp417
+g4
+VJonah Hill
+p418
+sg6
+I21007
+sg7
+Vnm1706767
+p419
+sa(dp420
+g4
+VMargot Robbie
+p421
+sg6
+I234352
+sg7
+Vnm3053338
+p422
+sa(dp423
+g4
+VKyle Chandler
+p424
+sg6
+I3497
+sg7
+Vnm0151419
+p425
+sa(dp426
+g4
+VRob Reiner
+p427
+sg6
+I3026
+sg7
+Vnm0001661
+p428
+sasVtt0072890
+p429
+(lp430
+(dp431
+g4
+VAl Pacino
+p432
+sg6
+I1158
+sg7
+Vnm0000199
+p433
+sa(dp434
+g4
+VJohn Cazale
+p435
+sg6
+I3096
+sg7
+Vnm0001030
+p436
+sa(dp437
+g4
+VCharles Durning
+p438
+sg6
+I1466
+sg7
+Vnm0001164
+p439
+sa(dp440
+g4
+VChris Sarandon
+p441
+sg6
+I14541
+sg7
+Vnm0001697
+p442
+sa(dp443
+g4
+VJames Broderick
+p444
+sg6
+I14542
+sg7
+Vnm0110814
+p445
+sasVtt0347149
+p446
+(lp447
+(dp448
+g4
+VTakuya Kimura
+p449
+sg6
+I12670
+sg7
+Vnm0454120
+p450
+sa(dp451
+g4
+VAkihiro Miwa
+p452
+sg6
+I20338
+sg7
+Vnm0594271
+p453
+sa(dp454
+g4
+VTatsuya Gashûin
+p455
+sg6
+I19592
+sg7
+Vnm0309107
+p456
+sa(dp457
+g4
+VMitsunori Isaki
+p458
+sg6
+I40449
+sg7
+Vnm0410659
+p459
+sa(dp460
+g4
+VYo Oizumi
+p461
+sg6
+I40450
+sg7
+Vnm1126978
+p462
+sasVtt0021749
+p463
+(lp464
+(dp465
+g4
+VCharles Chaplin
+p466
+sg6
+I13848
+sg7
+Vnm0000122
+p467
+sa(dp468
+g4
+VVirginia Cherrill
+p469
+sg6
+I13852
+sg7
+Vnm0156039
+p470
+sa(dp471
+g4
+VFlorence Lee
+p472
+sg6
+I13853
+sg7
+Vnm0497265
+p473
+sa(dp474
+g4
+VHarry Myers
+p475
+sg6
+I13854
+sg7
+Vnm0616729
+p476
+sa(dp477
+g4
+VAl Ernest Garcia
+p478
+sg6
+I13855
+sg7
+Vnm0305087
+p479
+sasVtt0405508
+p480
+(lp481
+(dp482
+g4
+VAamir Khan
+p483
+sg6
+I52763
+sg7
+Vnm0451148
+p484
+sa(dp485
+g4
+VSoha Ali Khan
+p486
+sg6
+I53672
+sg7
+Vnm1675786
+p487
+sa(dp488
+g4
+VAlice Patten
+p489
+sg6
+I53673
+sg7
+Vnm1373220
+p490
+sa(dp491
+g4
+VSharman Joshi
+p492
+sg6
+I53674
+sg7
+Vnm0430817
+p493
+sa(dp494
+g4
+VKunal Kapoor
+p495
+sg6
+I231349
+sg7
+g88
+sasVtt0119488
+p496
+(lp497
+(dp498
+g4
+VKevin Spacey
+p499
+sg6
+I1979
+sg7
+Vnm0000228
+p500
+sa(dp501
+g4
+VGuy Pearce
+p502
+sg6
+I529
+sg7
+Vnm0001602
+p503
+sa(dp504
+g4
+VDanny DeVito
+p505
+sg6
+I518
+sg7
+Vnm0000362
+p506
+sa(dp507
+g4
+VJames Cromwell
+p508
+sg6
+I2505
+sg7
+Vnm0000342
+p509
+sa(dp510
+g4
+VKim Basinger
+p511
+sg6
+I326
+sg7
+Vnm0000107
+p512
+sasVtt1187043
+p513
+(lp514
+(dp515
+g4
+VAamir Khan
+p516
+sg6
+I52763
+sg7
+Vnm0451148
+p517
+sa(dp518
+g4
+VKareena Kapoor
+p519
+sg6
+I37233
+sg7
+Vnm0004626
+p520
+sa(dp521
+g4
+VMadhavan
+p522
+sg6
+I85519
+sg7
+g88
+sa(dp523
+g4
+VSharman Joshi
+p524
+sg6
+I53674
+sg7
+Vnm0430817
+p525
+sa(dp526
+g4
+VBoman Irani
+p527
+sg6
+I35779
+sg7
+g88
+sasVtt0053125
+p528
+(lp529
+(dp530
+g4
+VCary Grant
+p531
+sg6
+I2638
+sg7
+Vnm0000026
+p532
+sa(dp533
+g4
+VEva Marie Saint
+p534
+sg6
+I2639
+sg7
+Vnm0001693
+p535
+sa(dp536
+g4
+VJames Mason
+p537
+sg6
+I2091
+sg7
+Vnm0000051
+p538
+sa(dp539
+g4
+VJessie Royce Landis
+p540
+sg6
+I2640
+sg7
+Vnm0484829
+p541
+sa(dp542
+g4
+VPhilip Coolidge
+p543
+sg6
+I2649
+sg7
+Vnm0177642
+p544
+sasVtt0268978
+p545
+(lp546
+(dp547
+g4
+VRussell Crowe
+p548
+sg6
+I934
+sg7
+Vnm0000128
+p549
+sa(dp550
+g4
+VEd Harris
+p551
+sg6
+I228
+sg7
+Vnm0000438
+p552
+sa(dp553
+g4
+VJennifer Connelly
+p554
+sg6
+I6161
+sg7
+Vnm0000124
+p555
+sa(dp556
+g4
+VChristopher Plummer
+p557
+sg6
+I290
+sg7
+Vnm0001626
+p558
+sa(dp559
+g4
+VPaul Bettany
+p560
+sg6
+I6162
+sg7
+Vnm0079273
+p561
+sasVtt1220719
+p562
+(lp563
+(dp564
+g4
+VDonnie Yen
+p565
+sg6
+I1341
+sg7
+Vnm0947447
+p566
+sa(dp567
+g4
+VSimon Yam
+p568
+sg6
+I20519
+sg7
+Vnm0945189
+p569
+sa(dp570
+g4
+VXing Yu
+p571
+sg6
+I78878
+sg7
+Vnm1789084
+p572
+sa(dp573
+g4
+VWong Yau-Nam
+p574
+sg6
+I105422
+sg7
+Vnm1264361
+p575
+sa(dp576
+g4
+VChen Zhi Hui
+p577
+sg6
+I224927
+sg7
+Vnm2705327
+p578
+sasVtt0025316
+p579
+(lp580
+(dp581
+g4
+VClark Gable
+p582
+sg6
+I11492
+sg7
+Vnm0000022
+p583
+sa(dp584
+g4
+VClaudette Colbert
+p585
+sg6
+I30155
+sg7
+Vnm0001055
+p586
+sa(dp587
+g4
+VWalter Connolly
+p588
+sg6
+I30156
+sg7
+Vnm0175369
+p589
+sa(dp590
+g4
+VRoscoe Karns
+p591
+sg6
+I30157
+sg7
+Vnm0439850
+p592
+sa(dp593
+g4
+VJameson Thomas
+p594
+sg6
+I30158
+sg7
+Vnm0858977
+p595
+sasVtt0120737
+p596
+(lp597
+(dp598
+g4
+VElijah Wood
+p599
+sg6
+I109
+sg7
+Vnm0000704
+p600
+sa(dp601
+g4
+VIan McKellen
+p602
+sg6
+I1327
+sg7
+Vnm0005212
+p603
+sa(dp604
+g4
+VViggo Mortensen
+p605
+sg6
+I110
+sg7
+Vnm0001557
+p606
+sa(dp607
+g4
+VLiv Tyler
+p608
+sg6
+I882
+sg7
+Vnm0000239
+p609
+sa(dp610
+g4
+VOrlando Bloom
+p611
+sg6
+I114
+sg7
+Vnm0089217
+p612
+sasVtt0044706
+p613
+(lp614
+(dp615
+g4
+VGary Cooper
+p616
+sg6
+I4068
+sg7
+Vnm0000011
+p617
+sa(dp618
+g4
+VGrace Kelly
+p619
+sg6
+I4070
+sg7
+Vnm0000038
+p620
+sa(dp621
+g4
+VThomas Mitchell
+p622
+sg6
+I3383
+sg7
+Vnm0593775
+p623
+sa(dp624
+g4
+VLloyd Bridges
+p625
+sg6
+I2177
+sg7
+Vnm0000978
+p626
+sa(dp627
+g4
+VKaty Jurado
+p628
+sg6
+I4069
+sg7
+Vnm0432827
+p629
+sasVtt0468569
+p630
+(lp631
+(dp632
+g4
+VChristian Bale
+p633
+sg6
+I3894
+sg7
+Vnm0000288
+p634
+sa(dp635
+g4
+VHeath Ledger
+p636
+sg6
+I1810
+sg7
+Vnm0005132
+p637
+sa(dp638
+g4
+VAaron Eckhart
+p639
+sg6
+I6383
+sg7
+Vnm0001173
+p640
+sa(dp641
+g4
+VMichael Caine
+p642
+sg6
+I3895
+sg7
+Vnm0000323
+p643
+sa(dp644
+g4
+VMaggie Gyllenhaal
+p645
+sg6
+I1579
+sg7
+Vnm0350454
+p646
+sasVtt0087843
+p647
+(lp648
+(dp649
+g4
+VRobert De Niro
+p650
+sg6
+I380
+sg7
+Vnm0000134
+p651
+sa(dp652
+g4
+VJames Woods
+p653
+sg6
+I4512
+sg7
+Vnm0000249
+p654
+sa(dp655
+g4
+VElizabeth McGovern
+p656
+sg6
+I4513
+sg7
+Vnm0001527
+p657
+sa(dp658
+g4
+VTuesday Weld
+p659
+sg6
+I4514
+sg7
+Vnm0001839
+p660
+sa(dp661
+g4
+VTreat Williams
+p662
+sg6
+I4515
+sg7
+Vnm0001852
+p663
+sasVtt0072684
+p664
+(lp665
+(dp666
+g4
+VRyan O'Neal
+p667
+sg6
+I31070
+sg7
+Vnm0641939
+p668
+sa(dp669
+g4
+VMarisa Berenson
+p670
+sg6
+I31071
+sg7
+Vnm0001943
+p671
+sa(dp672
+g4
+VHardy Krüger
+p673
+sg6
+I37777
+sg7
+Vnm0473228
+p674
+sa(dp675
+g4
+VDiana Körner
+p676
+sg6
+I22703
+sg7
+Vnm0477981
+p677
+sa(dp678
+g4
+VFrank Middlemass
+p679
+sg6
+I31718
+sg7
+Vnm0585460
+p680
+sasVtt0075686
+p681
+(lp682
+(dp683
+g4
+VWoody Allen
+p684
+sg6
+I1243
+sg7
+Vnm0000095
+p685
+sa(dp686
+g4
+VDiane Keaton
+p687
+sg6
+I3092
+sg7
+Vnm0000473
+p688
+sa(dp689
+g4
+VTony Roberts
+p690
+sg6
+I10555
+sg7
+Vnm0731634
+p691
+sa(dp692
+g4
+VCarol Kane
+p693
+sg6
+I10556
+sg7
+Vnm0001406
+p694
+sa(dp695
+g4
+VPaul Simon
+p696
+sg6
+I96767
+sg7
+Vnm0800650
+p697
+sasVtt0074958
+p698
+(lp699
+(dp700
+g4
+VFaye Dunaway
+p701
+sg6
+I6450
+sg7
+Vnm0001159
+p702
+sa(dp703
+g4
+VWilliam Holden
+p704
+sg6
+I8252
+sg7
+Vnm0000034
+p705
+sa(dp706
+g4
+VPeter Finch
+p707
+sg6
+I29903
+sg7
+Vnm0002075
+p708
+sa(dp709
+g4
+VRobert Duvall
+p710
+sg6
+I3087
+sg7
+Vnm0000380
+p711
+sa(dp712
+g4
+VWesley Addy
+p713
+sg6
+I66712
+sg7
+Vnm0011741
+p714
+sasVtt0325980
+p715
+(lp716
+(dp717
+g4
+VJohnny Depp
+p718
+sg6
+I85
+sg7
+Vnm0000136
+p719
+sa(dp720
+g4
+VGeoffrey Rush
+p721
+sg6
+I118
+sg7
+Vnm0001691
+p722
+sa(dp723
+g4
+VOrlando Bloom
+p724
+sg6
+I114
+sg7
+Vnm0089217
+p725
+sa(dp726
+g4
+VKeira Knightley
+p727
+sg6
+I116
+sg7
+Vnm0461136
+p728
+sa(dp729
+g4
+VJack Davenport
+p730
+sg6
+I1709
+sg7
+Vnm0202603
+p731
+sasVtt0052618
+p732
+(lp733
+(dp734
+g4
+VCharlton Heston
+p735
+sg6
+I10017
+sg7
+Vnm0000032
+p736
+sa(dp737
+g4
+VJack Hawkins
+p738
+sg6
+I10018
+sg7
+Vnm0370144
+p739
+sa(dp740
+g4
+VHaya Harareet
+p741
+sg6
+I10019
+sg7
+Vnm0361823
+p742
+sa(dp743
+g4
+VStephen Boyd
+p744
+sg6
+I10020
+sg7
+Vnm0000963
+p745
+sa(dp746
+g4
+VHugh Griffith
+p747
+sg6
+I10021
+sg7
+Vnm0341518
+p748
+sasVtt0364569
+p749
+(lp750
+(dp751
+g4
+VChoi Min-sik
+p752
+sg6
+I64880
+sg7
+Vnm0158856
+p753
+sa(dp754
+g4
+VYoo Ji-Tae
+p755
+sg6
+I10112
+sg7
+Vnm0949167
+p756
+sa(dp757
+g4
+VKang Hye-jung
+p758
+sg6
+I1299317
+sg7
+Vnm1367246
+p759
+sa(dp760
+g4
+VKim Byeong-ok
+p761
+sg6
+I1299313
+sg7
+g88
+sa(dp762
+g4
+VOh Dal-Su
+p763
+sg6
+I77188
+sg7
+Vnm1367681
+p764
+sasVtt0372784
+p765
+(lp766
+(dp767
+g4
+VChristian Bale
+p768
+sg6
+I3894
+sg7
+Vnm0000288
+p769
+sa(dp770
+g4
+VMichael Caine
+p771
+sg6
+I3895
+sg7
+Vnm0000323
+p772
+sa(dp773
+g4
+VLiam Neeson
+p774
+sg6
+I3896
+sg7
+Vnm0000553
+p775
+sa(dp776
+g4
+VKatie Holmes
+p777
+sg6
+I3897
+sg7
+Vnm0005017
+p778
+sa(dp779
+g4
+VGary Oldman
+p780
+sg6
+I64
+sg7
+Vnm0000198
+p781
+sasVtt1877832
+p782
+(lp783
+(dp784
+g4
+VHugh Jackman
+p785
+sg6
+I6968
+sg7
+Vnm0413168
+p786
+sa(dp787
+g4
+VJames McAvoy
+p788
+sg6
+I5530
+sg7
+Vnm0564215
+p789
+sa(dp790
+g4
+VPatrick Stewart
+p791
+sg6
+I2387
+sg7
+Vnm0001772
+p792
+sa(dp793
+g4
+VMichael Fassbender
+p794
+sg6
+I17288
+sg7
+Vnm1055413
+p795
+sa(dp796
+g4
+VIan McKellen
+p797
+sg6
+I1327
+sg7
+Vnm0005212
+p798
+sasVtt0036775
+p799
+(lp800
+(dp801
+g4
+VFred MacMurray
+p802
+sg6
+I4091
+sg7
+Vnm0534045
+p803
+sa(dp804
+g4
+VBarbara Stanwyck
+p805
+sg6
+I14974
+sg7
+Vnm0001766
+p806
+sa(dp807
+g4
+VEdward G. Robinson
+p808
+sg6
+I13566
+sg7
+Vnm0000064
+p809
+sa(dp810
+g4
+VPorter Hall
+p811
+sg6
+I14975
+sg7
+Vnm0356004
+p812
+sa(dp813
+g4
+VRichard Gaines
+p814
+sg6
+I14976
+sg7
+Vnm0301348
+p815
+sasVtt0022100
+p816
+(lp817
+(dp818
+g4
+VPeter Lorre
+p819
+sg6
+I2094
+sg7
+Vnm0000048
+p820
+sa(dp821
+g4
+VEllen Widmann
+p822
+sg6
+I12322
+sg7
+Vnm0927145
+p823
+sa(dp824
+g4
+VInge Landgut
+p825
+sg6
+I12323
+sg7
+Vnm0484737
+p826
+sa(dp827
+g4
+VOtto Wernicke
+p828
+sg6
+I12324
+sg7
+Vnm0921532
+p829
+sa(dp830
+g4
+VTheodor Loos
+p831
+sg6
+I79
+sg7
+Vnm0519765
+p832
+sasVtt0110357
+p833
+(lp834
+(dp835
+g4
+VJonathan Taylor Thomas
+p836
+sg6
+I53283
+sg7
+Vnm0001795
+p837
+sa(dp838
+g4
+VMatthew Broderick
+p839
+sg6
+I4756
+sg7
+Vnm0000111
+p840
+sa(dp841
+g4
+VJames Earl Jones
+p842
+sg6
+I15152
+sg7
+Vnm0000469
+p843
+sa(dp844
+g4
+VJeremy Irons
+p845
+sg6
+I16940
+sg7
+Vnm0000460
+p846
+sa(dp847
+g4
+VMoira Kelly
+p848
+sg6
+I20005
+sg7
+Vnm0446702
+p849
+sasVtt0040746
+p850
+(lp851
+(dp852
+g4
+VJames Stewart
+p853
+sg6
+I854
+sg7
+Vnm0000071
+p854
+sa(dp855
+g4
+VJohn Dall
+p856
+sg6
+I126165
+sg7
+Vnm1668309
+p857
+sa(dp858
+g4
+VFarley Granger
+p859
+sg6
+I12497
+sg7
+Vnm0335048
+p860
+sa(dp861
+g4
+VConstance Collier
+p862
+sg6
+I17660
+sg7
+Vnm0171887
+p863
+sa(dp864
+g4
+VDouglas Dick
+p865
+sg6
+I17661
+sg7
+Vnm0225255
+p866
+sasVtt0071853
+p867
+(lp868
+(dp869
+g4
+VGraham Chapman
+p870
+sg6
+I10722
+sg7
+Vnm0001037
+p871
+sa(dp872
+g4
+VJohn Cleese
+p873
+sg6
+I8930
+sg7
+Vnm0000092
+p874
+sa(dp875
+g4
+VEric Idle
+p876
+sg6
+I10713
+sg7
+Vnm0001385
+p877
+sa(dp878
+g4
+VMichael Palin
+p879
+sg6
+I383
+sg7
+Vnm0001589
+p880
+sa(dp881
+g4
+VTerry Gilliam
+p882
+sg6
+I280
+sg7
+Vnm0000416
+p883
+sasVtt0038355
+p884
+(lp885
+(dp886
+g4
+VHumphrey Bogart
+p887
+sg6
+I4110
+sg7
+Vnm0000007
+p888
+sa(dp889
+g4
+VLauren Bacall
+p890
+sg6
+I7570
+sg7
+Vnm0000002
+p891
+sa(dp892
+g4
+VJohn Ridgely
+p893
+sg6
+I2673
+sg7
+Vnm0725891
+p894
+sa(dp895
+g4
+VMartha Vickers
+p896
+sg6
+I13975
+sg7
+Vnm0896015
+p897
+sa(dp898
+g4
+VDorothy Malone
+p899
+sg6
+I10487
+sg7
+Vnm0540416
+p900
+sasVtt0075148
+p901
+(lp902
+(dp903
+g4
+VSylvester Stallone
+p904
+sg6
+I16483
+sg7
+Vnm0000230
+p905
+sa(dp906
+g4
+VTalia Shire
+p907
+sg6
+I3094
+sg7
+Vnm0001735
+p908
+sa(dp909
+g4
+VBurt Young
+p910
+sg6
+I4521
+sg7
+Vnm0949350
+p911
+sa(dp912
+g4
+VCarl Weathers
+p913
+sg6
+I1101
+sg7
+Vnm0001835
+p914
+sa(dp915
+g4
+VBurgess Meredith
+p916
+sg6
+I16523
+sg7
+Vnm0580565
+p917
+sasVtt0978762
+p918
+(lp919
+(dp920
+g4
+VToni Collette
+p921
+sg6
+I3051
+sg7
+Vnm0001057
+p922
+sa(dp923
+g4
+VPhilip Seymour Hoffman
+p924
+sg6
+I1233
+sg7
+Vnm0000450
+p925
+sa(dp926
+g4
+VEric Bana
+p927
+sg6
+I8783
+sg7
+Vnm0051509
+p928
+sa(dp929
+g4
+VBarry Humphries
+p930
+sg6
+I22
+sg7
+Vnm0402032
+p931
+sa(dp932
+g4
+VBethany Whitmore
+p933
+sg6
+I92731
+sg7
+Vnm2512626
+p934
+sasVtt0118799
+p935
+(lp936
+(dp937
+g4
+VNicoletta Braschi
+p938
+sg6
+I9235
+sg7
+Vnm0000971
+p939
+sa(dp940
+g4
+VRoberto Benigni
+p941
+sg6
+I4818
+sg7
+Vnm0000905
+p942
+sa(dp943
+g4
+VGiorgio Cantarini
+p944
+sg6
+I9236
+sg7
+Vnm0134493
+p945
+sa(dp946
+g4
+VGiustino Durano
+p947
+sg6
+I9237
+sg7
+Vnm0243842
+p948
+sa(dp949
+g4
+VAmerigo Fontani
+p950
+sg6
+I9238
+sg7
+Vnm0284997
+p951
+sasVtt1255953
+p952
+(lp953
+(dp954
+g4
+VLubna Azabal
+p955
+sg6
+I77498
+sg7
+Vnm0044073
+p956
+sa(dp957
+g4
+VMélissa Désormeaux-Poulin
+p958
+sg6
+I84573
+sg7
+Vnm0246386
+p959
+sa(dp960
+g4
+VMaxim Gaudette
+p961
+sg6
+I88592
+sg7
+Vnm0309945
+p962
+sa(dp963
+g4
+VRémy Girard
+p964
+sg6
+I38526
+sg7
+Vnm0320721
+p965
+sasVtt0036868
+p966
+(lp967
+(dp968
+g4
+VFredric March
+p969
+sg6
+I13576
+sg7
+Vnm0545298
+p970
+sa(dp971
+g4
+VMyrna Loy
+p972
+sg6
+I13577
+sg7
+Vnm0001485
+p973
+sa(dp974
+g4
+VDana Andrews
+p975
+sg6
+I13578
+sg7
+Vnm0000763
+p976
+sa(dp977
+g4
+VTeresa Wright
+p978
+sg6
+I7663
+sg7
+Vnm0942863
+p979
+sa(dp980
+g4
+VVirginia Mayo
+p981
+sg6
+I13579
+sg7
+Vnm0562920
+p982
+sasVtt0111161
+p983
+(lp984
+(dp985
+g4
+VTim Robbins
+p986
+sg6
+I504
+sg7
+Vnm0000209
+p987
+sa(dp988
+g4
+VMorgan Freeman
+p989
+sg6
+I192
+sg7
+Vnm0000151
+p990
+sa(dp991
+g4
+VBob Gunton
+p992
+sg6
+I4029
+sg7
+Vnm0348409
+p993
+sa(dp994
+g4
+VWilliam Sadler
+p995
+sg6
+I6573
+sg7
+Vnm0006669
+p996
+sa(dp997
+g4
+VClancy Brown
+p998
+sg6
+I6574
+sg7
+Vnm0000317
+p999
+sasVtt0093779
+p1000
+(lp1001
+(dp1002
+g4
+VCary Elwes
+p1003
+sg6
+I2130
+sg7
+Vnm0000144
+p1004
+sa(dp1005
+g4
+VRobin Wright
+p1006
+sg6
+I32
+sg7
+Vnm0000705
+p1007
+sa(dp1008
+g4
+VMandy Patinkin
+p1009
+sg6
+I25503
+sg7
+Vnm0001597
+p1010
+sa(dp1011
+g4
+VAndré the Giant
+p1012
+sg6
+I25504
+sg7
+Vnm0000764
+p1013
+sa(dp1014
+g4
+VChris Sarandon
+p1015
+sg6
+I14541
+sg7
+Vnm0001697
+p1016
+sasVtt0108052
+p1017
+(lp1018
+(dp1019
+g4
+VLiam Neeson
+p1020
+sg6
+I3896
+sg7
+Vnm0000553
+p1021
+sa(dp1022
+g4
+VBen Kingsley
+p1023
+sg6
+I2282
+sg7
+Vnm0001426
+p1024
+sa(dp1025
+g4
+VRalph Fiennes
+p1026
+sg6
+I5469
+sg7
+Vnm0000146
+p1027
+sa(dp1028
+g4
+VCaroline Goodall
+p1029
+sg6
+I6692
+sg7
+Vnm0328751
+p1030
+sa(dp1031
+g4
+VJonathan Sagall
+p1032
+sg6
+I6693
+sg7
+Vnm0755974
+p1033
+sasVtt0056592
+p1034
+(lp1035
+(dp1036
+g4
+VGregory Peck
+p1037
+sg6
+I8487
+sg7
+Vnm0000060
+p1038
+sa(dp1039
+g4
+VMary Badham
+p1040
+sg6
+I8488
+sg7
+Vnm0000825
+p1041
+sa(dp1042
+g4
+VPhillip Alford
+p1043
+sg6
+I8489
+sg7
+Vnm0019221
+p1044
+sa(dp1045
+g4
+VRobert Duvall
+p1046
+sg6
+I3087
+sg7
+Vnm0000380
+p1047
+sa(dp1048
+g4
+VJohn Megna
+p1049
+sg6
+I8490
+sg7
+Vnm0576345
+p1050
+sasVtt0088763
+p1051
+(lp1052
+(dp1053
+g4
+VMichael J. Fox
+p1054
+sg6
+I521
+sg7
+Vnm0000150
+p1055
+sa(dp1056
+g4
+VChristopher Lloyd
+p1057
+sg6
+I1062
+sg7
+Vnm0000502
+p1058
+sa(dp1059
+g4
+VLea Thompson
+p1060
+sg6
+I1063
+sg7
+Vnm0000670
+p1061
+sa(dp1062
+g4
+VCrispin Glover
+p1063
+sg6
+I1064
+sg7
+Vnm0000417
+p1064
+sa(dp1065
+g4
+VThomas F. Wilson
+p1066
+sg6
+I1065
+sg7
+Vnm0001855
+p1067
+sasVtt0095327
+p1068
+(lp1069
+(dp1070
+g4
+VTsutomu Tatsumi
+p1071
+sg6
+I72413
+sg7
+Vnm0851302
+p1072
+sa(dp1073
+g4
+VAyano Shiraishi
+p1074
+sg6
+I72414
+sg7
+Vnm0794186
+p1075
+sa(dp1076
+g4
+VYoshiko Shinohara
+p1077
+sg6
+I72415
+sg7
+Vnm0794002
+p1078
+sa(dp1079
+g4
+VAkemi Yamaguchi
+p1080
+sg6
+I72416
+sg7
+Vnm0945312
+p1081
+sasVtt0482571
+p1082
+(lp1083
+(dp1084
+g4
+VHugh Jackman
+p1085
+sg6
+I6968
+sg7
+Vnm0413168
+p1086
+sa(dp1087
+g4
+VChristian Bale
+p1088
+sg6
+I3894
+sg7
+Vnm0000288
+p1089
+sa(dp1090
+g4
+VMichael Caine
+p1091
+sg6
+I3895
+sg7
+Vnm0000323
+p1092
+sa(dp1093
+g4
+VScarlett Johansson
+p1094
+sg6
+I1245
+sg7
+Vnm0424060
+p1095
+sa(dp1096
+g4
+VAndy Serkis
+p1097
+sg6
+I1333
+sg7
+Vnm0785227
+p1098
+sasVtt0053291
+p1099
+(lp1100
+(dp1101
+g4
+VMarilyn Monroe
+p1102
+sg6
+I3149
+sg7
+Vnm0000054
+p1103
+sa(dp1104
+g4
+VTony Curtis
+p1105
+sg6
+I3150
+sg7
+Vnm0000348
+p1106
+sa(dp1107
+g4
+VJack Lemmon
+p1108
+sg6
+I3151
+sg7
+Vnm0000493
+p1109
+sa(dp1110
+g4
+VGeorge Raft
+p1111
+sg6
+I3152
+sg7
+Vnm0706368
+p1112
+sa(dp1113
+g4
+VJoe E. Brown
+p1114
+sg6
+I3156
+sg7
+Vnm0113873
+p1115
+sasVtt0245712
+p1116
+(lp1117
+(dp1118
+g4
+VGael García Bernal
+p1119
+sg6
+I258
+sg7
+Vnm0305558
+p1120
+sa(dp1121
+g4
+VVanessa Bauche
+p1122
+sg6
+I259
+sg7
+Vnm0061639
+p1123
+sa(dp1124
+g4
+VGoya Toledo
+p1125
+sg6
+I261
+sg7
+Vnm0865949
+p1126
+sa(dp1127
+g4
+VAlvaro Guerrero
+p1128
+sg6
+I1044025
+sg7
+g88
+sa(dp1129
+g4
+VEmilio Echevarría
+p1130
+sg6
+I263
+sg7
+Vnm0248408
+p1131
+sasVtt0407887
+p1132
+(lp1133
+(dp1134
+g4
+VLeonardo DiCaprio
+p1135
+sg6
+I6193
+sg7
+Vnm0000138
+p1136
+sa(dp1137
+g4
+VMatt Damon
+p1138
+sg6
+I1892
+sg7
+Vnm0000354
+p1139
+sa(dp1140
+g4
+VJack Nicholson
+p1141
+sg6
+I514
+sg7
+Vnm0000197
+p1142
+sa(dp1143
+g4
+VMark Wahlberg
+p1144
+sg6
+I13240
+sg7
+Vnm0000242
+p1145
+sa(dp1146
+g4
+VMartin Sheen
+p1147
+sg6
+I8349
+sg7
+Vnm0000640
+p1148
+sasVtt1130884
+p1149
+(lp1150
+(dp1151
+g4
+VLeonardo DiCaprio
+p1152
+sg6
+I6193
+sg7
+Vnm0000138
+p1153
+sa(dp1154
+g4
+VMark Ruffalo
+p1155
+sg6
+I103
+sg7
+Vnm0749263
+p1156
+sa(dp1157
+g4
+VBen Kingsley
+p1158
+sg6
+I2282
+sg7
+Vnm0001426
+p1159
+sa(dp1160
+g4
+VEmily Mortimer
+p1161
+sg6
+I1246
+sg7
+Vnm0607865
+p1162
+sa(dp1163
+g4
+VMichelle Williams
+p1164
+sg6
+I1812
+sg7
+Vnm0931329
+p1165
+sasVtt1305806
+p1166
+(lp1167
+(dp1168
+g4
+VRicardo Darín
+p1169
+sg6
+I69310
+sg7
+Vnm0201857
+p1170
+sa(dp1171
+g4
+VSoledad Villamil
+p1172
+sg6
+I93647
+sg7
+Vnm0897845
+p1173
+sa(dp1174
+g4
+VPablo Rago
+p1175
+sg6
+I93648
+sg7
+Vnm0706567
+p1176
+sa(dp1177
+g4
+VJavier Godino
+p1178
+sg6
+I93649
+sg7
+Vnm1024390
+p1179
+sa(dp1180
+g4
+VGuillermo Francella
+p1181
+sg6
+I93650
+sg7
+Vnm0289856
+p1182
+sasVtt0120586
+p1183
+(lp1184
+(dp1185
+g4
+VEdward Norton
+p1186
+sg6
+I819
+sg7
+Vnm0001570
+p1187
+sa(dp1188
+g4
+VEdward Furlong
+p1189
+sg6
+I820
+sg7
+Vnm0000411
+p1190
+sa(dp1191
+g4
+VBeverly D'Angelo
+p1192
+sg6
+I821
+sg7
+Vnm0000350
+p1193
+sa(dp1194
+g4
+VAvery Brooks
+p1195
+sg6
+I822
+sg7
+Vnm0000984
+p1196
+sa(dp1197
+g4
+VJennifer Lien
+p1198
+sg6
+I823
+sg7
+Vnm0000497
+p1199
+sasVtt0114814
+p1200
+(lp1201
+(dp1202
+g4
+VKevin Spacey
+p1203
+sg6
+I1979
+sg7
+Vnm0000228
+p1204
+sa(dp1205
+g4
+VStephen Baldwin
+p1206
+sg6
+I9045
+sg7
+Vnm0000286
+p1207
+sa(dp1208
+g4
+VGabriel Byrne
+p1209
+sg6
+I5168
+sg7
+Vnm0000321
+p1210
+sa(dp1211
+g4
+VBenicio del Toro
+p1212
+sg6
+I1121
+sg7
+Vnm0001125
+p1213
+sa(dp1214
+g4
+VKevin Pollak
+p1215
+sg6
+I7166
+sg7
+Vnm0001629
+p1216
+sasVtt0033467
+p1217
+(lp1218
+(dp1219
+g4
+VOrson Welles
+p1220
+sg6
+I40
+sg7
+Vnm0000080
+p1221
+sa(dp1222
+g4
+VWilliam Alland
+p1223
+sg6
+I11030
+sg7
+Vnm0020041
+p1224
+sa(dp1225
+g4
+VJoseph Cotten
+p1226
+sg6
+I7664
+sg7
+Vnm0001072
+p1227
+sa(dp1228
+g4
+VAgnes Moorehead
+p1229
+sg6
+I11025
+sg7
+Vnm0001547
+p1230
+sa(dp1231
+g4
+VRuth Warrick
+p1232
+sg6
+I11026
+sg7
+Vnm0913095
+p1233
+sasVtt0107048
+p1234
+(lp1235
+(dp1236
+g4
+VBill Murray
+p1237
+sg6
+I1532
+sg7
+Vnm0000195
+p1238
+sa(dp1239
+g4
+VAndie MacDowell
+p1240
+sg6
+I1533
+sg7
+Vnm0000510
+p1241
+sa(dp1242
+g4
+VChris Elliott
+p1243
+sg6
+I1534
+sg7
+Vnm0254402
+p1244
+sa(dp1245
+g4
+VStephen Tobolowsky
+p1246
+sg6
+I537
+sg7
+Vnm0864997
+p1247
+sa(dp1248
+g4
+VBrian Doyle-Murray
+p1249
+sg6
+I1535
+sg7
+Vnm0236519
+p1250
+sasVtt0054997
+p1251
+(lp1252
+(dp1253
+g4
+VPaul Newman
+p1254
+sg6
+I3636
+sg7
+Vnm0000056
+p1255
+sa(dp1256
+g4
+VJackie Gleason
+p1257
+sg6
+I14882
+sg7
+Vnm0001276
+p1258
+sa(dp1259
+g4
+VPiper Laurie
+p1260
+sg6
+I6721
+sg7
+Vnm0001453
+p1261
+sa(dp1262
+g4
+VGeorge C. Scott
+p1263
+sg6
+I862
+sg7
+Vnm0001715
+p1264
+sa(dp1265
+g4
+VMyron McCormick
+p1266
+sg6
+I14883
+sg7
+Vnm0566584
+p1267
+sasVtt1798709
+p1268
+(lp1269
+(dp1270
+g4
+VJoaquin Phoenix
+p1271
+sg6
+I73421
+sg7
+Vnm0001618
+p1272
+sa(dp1273
+g4
+VScarlett Johansson
+p1274
+sg6
+I1245
+sg7
+Vnm0424060
+p1275
+sa(dp1276
+g4
+VRooney Mara
+p1277
+sg6
+I108916
+sg7
+Vnm1913734
+p1278
+sa(dp1279
+g4
+VAmy Adams
+p1280
+sg6
+I9273
+sg7
+Vnm0010736
+p1281
+sa(dp1282
+g4
+VOlivia Wilde
+p1283
+sg6
+I59315
+sg7
+Vnm1312575
+p1284
+sasVtt0015864
+p1285
+(lp1286
+(dp1287
+g4
+VCharles Chaplin
+p1288
+sg6
+I13848
+sg7
+Vnm0000122
+p1289
+sa(dp1290
+g4
+VGeorgia Hale
+p1291
+sg6
+I14434
+sg7
+Vnm0354913
+p1292
+sa(dp1293
+g4
+VMack Swain
+p1294
+sg6
+I14435
+sg7
+Vnm0841501
+p1295
+sa(dp1296
+g4
+VTom Murray
+p1297
+sg6
+I14437
+sg7
+Vnm0615306
+p1298
+sa(dp1299
+g4
+VHenry Bergman
+p1300
+sg6
+I14438
+sg7
+Vnm0074788
+p1301
+sasVtt0107207
+p1302
+(lp1303
+(dp1304
+g4
+VDaniel Day-Lewis
+p1305
+sg6
+I11856
+sg7
+Vnm0000358
+p1306
+sa(dp1307
+g4
+VEmma Thompson
+p1308
+sg6
+I7056
+sg7
+Vnm0000668
+p1309
+sa(dp1310
+g4
+VPete Postlethwaite
+p1311
+sg6
+I4935
+sg7
+Vnm0000592
+p1312
+sa(dp1313
+g4
+VJohn Lynch
+p1314
+sg6
+I28743
+sg7
+Vnm0001487
+p1315
+sa(dp1316
+g4
+VBeatie Edney
+p1317
+sg6
+I53515
+sg7
+Vnm0249622
+p1318
+sasVtt0045152
+p1319
+(lp1320
+(dp1321
+g4
+VGene Kelly
+p1322
+sg6
+I13294
+sg7
+Vnm0000037
+p1323
+sa(dp1324
+g4
+VDonald O'Connor
+p1325
+sg6
+I13295
+sg7
+Vnm0640307
+p1326
+sa(dp1327
+g4
+VDebbie Reynolds
+p1328
+sg6
+I8857
+sg7
+Vnm0001666
+p1329
+sa(dp1330
+g4
+VJean Hagen
+p1331
+sg6
+I13296
+sg7
+Vnm0353405
+p1332
+sa(dp1333
+g4
+VMillard Mitchell
+p1334
+sg6
+I13297
+sg7
+Vnm0593612
+p1335
+sasVtt0167261
+p1336
+(lp1337
+(dp1338
+g4
+VElijah Wood
+p1339
+sg6
+I109
+sg7
+Vnm0000704
+p1340
+sa(dp1341
+g4
+VIan McKellen
+p1342
+sg6
+I1327
+sg7
+Vnm0005212
+p1343
+sa(dp1344
+g4
+VViggo Mortensen
+p1345
+sg6
+I110
+sg7
+Vnm0001557
+p1346
+sa(dp1347
+g4
+VLiv Tyler
+p1348
+sg6
+I882
+sg7
+Vnm0000239
+p1349
+sa(dp1350
+g4
+VOrlando Bloom
+p1351
+sg6
+I114
+sg7
+Vnm0089217
+p1352
+sasVtt0848228
+p1353
+(lp1354
+(dp1355
+g4
+VRobert Downey Jr.
+p1356
+sg6
+I3223
+sg7
+Vnm0000375
+p1357
+sa(dp1358
+g4
+VChris Evans
+p1359
+sg6
+I16828
+sg7
+Vnm0262635
+p1360
+sa(dp1361
+g4
+VMark Ruffalo
+p1362
+sg6
+I103
+sg7
+Vnm0749263
+p1363
+sa(dp1364
+g4
+VChris Hemsworth
+p1365
+sg6
+I74568
+sg7
+Vnm1165110
+p1366
+sa(dp1367
+g4
+VScarlett Johansson
+p1368
+sg6
+I1245
+sg7
+Vnm0424060
+p1369
+sasVtt0095016
+p1370
+(lp1371
+(dp1372
+g4
+VBruce Willis
+p1373
+sg6
+I62
+sg7
+Vnm0000246
+p1374
+sa(dp1375
+g4
+VAlan Rickman
+p1376
+sg6
+I4566
+sg7
+Vnm0000614
+p1377
+sa(dp1378
+g4
+VReginald VelJohnson
+p1379
+sg6
+I7672
+sg7
+Vnm0001817
+p1380
+sa(dp1381
+g4
+VBonnie Bedelia
+p1382
+sg6
+I7673
+sg7
+Vnm0000889
+p1383
+sa(dp1384
+g4
+VAlexander Godunov
+p1385
+sg6
+I7674
+sg7
+Vnm0324231
+p1386
+sasVtt0046911
+p1387
+(lp1388
+(dp1389
+g4
+VSimone Signoret
+p1390
+sg6
+I12266
+sg7
+Vnm0797531
+p1391
+sa(dp1392
+g4
+VVéra Clouzot
+p1393
+sg6
+I2569
+sg7
+Vnm0167243
+p1394
+sa(dp1395
+g4
+VPaul Meurisse
+p1396
+sg6
+I12267
+sg7
+Vnm0582890
+p1397
+sa(dp1398
+g4
+VCharles Vanel
+p1399
+sg6
+I2566
+sg7
+Vnm0889024
+p1400
+sa(dp1401
+g4
+VJean Brochard
+p1402
+sg6
+I12268
+sg7
+Vnm0110494
+p1403
+sasVtt0172495
+p1404
+(lp1405
+(dp1406
+g4
+VRussell Crowe
+p1407
+sg6
+I934
+sg7
+Vnm0000128
+p1408
+sa(dp1409
+g4
+VJoaquin Phoenix
+p1410
+sg6
+I73421
+sg7
+Vnm0001618
+p1411
+sa(dp1412
+g4
+VConnie Nielsen
+p1413
+sg6
+I935
+sg7
+Vnm0001567
+p1414
+sa(dp1415
+g4
+VOliver Reed
+p1416
+sg6
+I936
+sg7
+Vnm0001657
+p1417
+sa(dp1418
+g4
+VRichard Harris
+p1419
+sg6
+I194
+sg7
+Vnm0001321
+p1420
+sasVtt0046912
+p1421
+(lp1422
+(dp1423
+g4
+VRay Milland
+p1424
+sg6
+I7124
+sg7
+Vnm0001537
+p1425
+sa(dp1426
+g4
+VGrace Kelly
+p1427
+sg6
+I4070
+sg7
+Vnm0000038
+p1428
+sa(dp1429
+g4
+VRobert Cummings
+p1430
+sg6
+I7125
+sg7
+Vnm0191950
+p1431
+sa(dp1432
+g4
+VJohn Williams
+p1433
+sg6
+I491
+sg7
+Vnm0002354
+p1434
+sa(dp1435
+g4
+VAnthony Dawson
+p1436
+sg6
+I7682
+sg7
+Vnm0206060
+p1437
+sasVtt0049406
+p1438
+(lp1439
+(dp1440
+g4
+VSterling Hayden
+p1441
+sg6
+I3088
+sg7
+Vnm0001330
+p1442
+sa(dp1443
+g4
+VColeen Gray
+p1444
+sg6
+I3336
+sg7
+Vnm0336531
+p1445
+sa(dp1446
+g4
+VVince Edwards
+p1447
+sg6
+I3337
+sg7
+Vnm0250436
+p1448
+sa(dp1449
+g4
+VJay C. Flippen
+p1450
+sg6
+I3338
+sg7
+Vnm0282435
+p1451
+sa(dp1452
+g4
+VElisha Cook, Jr.
+p1453
+sg6
+I3339
+sg7
+Vnm0176879
+p1454
+sasVtt0078748
+p1455
+(lp1456
+(dp1457
+g4
+VSigourney Weaver
+p1458
+sg6
+I10205
+sg7
+Vnm0000244
+p1459
+sa(dp1460
+g4
+VTom Skerritt
+p1461
+sg6
+I4139
+sg7
+Vnm0000643
+p1462
+sa(dp1463
+g4
+VVeronica Cartwright
+p1464
+sg6
+I5047
+sg7
+Vnm0001021
+p1465
+sa(dp1466
+g4
+VHarry Dean Stanton
+p1467
+sg6
+I5048
+sg7
+Vnm0001765
+p1468
+sa(dp1469
+g4
+VJohn Hurt
+p1470
+sg6
+I5049
+sg7
+Vnm0000457
+p1471
+sasVtt2015381
+p1472
+(lp1473
+(dp1474
+g4
+VChris Pratt
+p1475
+sg6
+I73457
+sg7
+Vnm0695435
+p1476
+sa(dp1477
+g4
+VZoe Saldana
+p1478
+sg6
+I8691
+sg7
+Vnm0757855
+p1479
+sa(dp1480
+g4
+VDave Bautista
+p1481
+sg6
+I543530
+sg7
+Vnm1176985
+p1482
+sa(dp1483
+g4
+VVin Diesel
+p1484
+sg6
+I12835
+sg7
+Vnm0004874
+p1485
+sa(dp1486
+g4
+VBradley Cooper
+p1487
+sg6
+I51329
+sg7
+Vnm0177896
+p1488
+sasVtt1646971
+p1489
+(lp1490
+(dp1491
+g4
+VJay Baruchel
+p1492
+sg6
+I449
+sg7
+Vnm0059431
+p1493
+sa(dp1494
+g4
+VGerard Butler
+p1495
+sg6
+I17276
+sg7
+Vnm0124930
+p1496
+sa(dp1497
+g4
+VKristen Wiig
+p1498
+sg6
+I41091
+sg7
+Vnm1325419
+p1499
+sa(dp1500
+g4
+VJonah Hill
+p1501
+sg6
+I21007
+sg7
+Vnm1706767
+p1502
+sa(dp1503
+g4
+VCate Blanchett
+p1504
+sg6
+I112
+sg7
+Vnm0000949
+p1505
+sasVtt0081398
+p1506
+(lp1507
+(dp1508
+g4
+VRobert De Niro
+p1509
+sg6
+I380
+sg7
+Vnm0000134
+p1510
+sa(dp1511
+g4
+VJoe Pesci
+p1512
+sg6
+I4517
+sg7
+Vnm0000582
+p1513
+sa(dp1514
+g4
+VCathy Moriarty
+p1515
+sg6
+I14702
+sg7
+Vnm0001550
+p1516
+sa(dp1517
+g4
+VFrank Vincent
+p1518
+sg6
+I7164
+sg7
+Vnm0898634
+p1519
+sa(dp1520
+g4
+VNicholas Colasanto
+p1521
+sg6
+I17651
+sg7
+Vnm0170225
+p1522
+sasVtt0047396
+p1523
+(lp1524
+(dp1525
+g4
+VJames Stewart
+p1526
+sg6
+I854
+sg7
+Vnm0000071
+p1527
+sa(dp1528
+g4
+VGrace Kelly
+p1529
+sg6
+I4070
+sg7
+Vnm0000038
+p1530
+sa(dp1531
+g4
+VWendell Corey
+p1532
+sg6
+I7683
+sg7
+Vnm0179819
+p1533
+sa(dp1534
+g4
+VThelma Ritter
+p1535
+sg6
+I7684
+sg7
+Vnm0728812
+p1536
+sa(dp1537
+g4
+VRaymond Burr
+p1538
+sg6
+I7685
+sg7
+Vnm0000994
+p1539
+sasVtt0113247
+p1540
+(lp1541
+(dp1542
+g4
+VVincent Cassel
+p1543
+sg6
+I1925
+sg7
+Vnm0001993
+p1544
+sa(dp1545
+g4
+VHubert Koundé
+p1546
+sg6
+I5418
+sg7
+Vnm0468003
+p1547
+sa(dp1548
+g4
+VSaïd Taghmaoui
+p1549
+sg6
+I5419
+sg7
+Vnm0846548
+p1550
+sa(dp1551
+g4
+VAbdel Ahmed Ghili
+p1552
+sg6
+I5420
+sg7
+Vnm0315760
+p1553
+sa(dp1554
+g4
+VSolo
+p1555
+sg6
+I5422
+sg7
+Vnm0813217
+p1556
+sasVtt0107290
+p1557
+(lp1558
+(dp1559
+g4
+VSam Neill
+p1560
+sg6
+I4783
+sg7
+Vnm0000554
+p1561
+sa(dp1562
+g4
+VLaura Dern
+p1563
+sg6
+I4784
+sg7
+Vnm0000368
+p1564
+sa(dp1565
+g4
+VJeff Goldblum
+p1566
+sg6
+I4785
+sg7
+Vnm0000156
+p1567
+sa(dp1568
+g4
+VRichard Attenborough
+p1569
+sg6
+I4786
+sg7
+Vnm0000277
+p1570
+sa(dp1571
+g4
+VBob Peck
+p1572
+sg6
+I4789
+sg7
+Vnm0669629
+p1573
+sasVtt0070735
+p1574
+(lp1575
+(dp1576
+g4
+VPaul Newman
+p1577
+sg6
+I3636
+sg7
+Vnm0000056
+p1578
+sa(dp1579
+g4
+VRobert Redford
+p1580
+sg6
+I4135
+sg7
+Vnm0000602
+p1581
+sa(dp1582
+g4
+VRobert Shaw
+p1583
+sg6
+I8606
+sg7
+Vnm0001727
+p1584
+sa(dp1585
+g4
+VCharles Durning
+p1586
+sg6
+I1466
+sg7
+Vnm0001164
+p1587
+sa(dp1588
+g4
+VRay Walston
+p1589
+sg6
+I4093
+sg7
+Vnm0001827
+p1590
+sasVtt2106476
+p1591
+(lp1592
+(dp1593
+g4
+VMads Mikkelsen
+p1594
+sg6
+I1019
+sg7
+Vnm0586568
+p1595
+sa(dp1596
+g4
+VAlexandra Rapaport
+p1597
+sg6
+I92416
+sg7
+Vnm0710658
+p1598
+sa(dp1599
+g4
+VThomas Bo Larsen
+p1600
+sg6
+I4457
+sg7
+Vnm0488917
+p1601
+sa(dp1602
+g4
+VAnne Louise Hassing
+p1603
+sg6
+I6122
+sg7
+Vnm0368482
+p1604
+sa(dp1605
+g4
+VLars Ranthe
+p1606
+sg6
+I588175
+sg7
+g88
+sasVtt0032551
+p1607
+(lp1608
+(dp1609
+g4
+VHenry Fonda
+p1610
+sg6
+I4958
+sg7
+Vnm0000020
+p1611
+sa(dp1612
+g4
+VJane Darwell
+p1613
+sg6
+I8515
+sg7
+Vnm0002034
+p1614
+sa(dp1615
+g4
+VJohn Carradine
+p1616
+sg6
+I8516
+sg7
+Vnm0001017
+p1617
+sa(dp1618
+g4
+VCharley Grapewin
+p1619
+sg6
+I8517
+sg7
+Vnm0335788
+p1620
+sa(dp1621
+g4
+VDorris Bowdon
+p1622
+sg6
+I8518
+sg7
+Vnm0100758
+p1623
+sasVtt0052357
+p1624
+(lp1625
+(dp1626
+g4
+VJames Stewart
+p1627
+sg6
+I854
+sg7
+Vnm0000071
+p1628
+sa(dp1629
+g4
+VKim Novak
+p1630
+sg6
+I5729
+sg7
+Vnm0001571
+p1631
+sa(dp1632
+g4
+VBarbara Bel Geddes
+p1633
+sg6
+I5730
+sg7
+Vnm0000895
+p1634
+sa(dp1635
+g4
+VTom Helmore
+p1636
+sg6
+I5731
+sg7
+Vnm0375738
+p1637
+sa(dp1638
+g4
+VHenry Jones
+p1639
+sg6
+I5732
+sg7
+Vnm0428216
+p1640
+sasVtt0361748
+p1641
+(lp1642
+(dp1643
+g4
+VBrad Pitt
+p1644
+sg6
+I287
+sg7
+Vnm0000093
+p1645
+sa(dp1646
+g4
+VChristoph Waltz
+p1647
+sg6
+I27319
+sg7
+Vnm0910607
+p1648
+sa(dp1649
+g4
+VMélanie Laurent
+p1650
+sg6
+I19119
+sg7
+Vnm0491259
+p1651
+sa(dp1652
+g4
+VDiane Kruger
+p1653
+sg6
+I9824
+sg7
+Vnm1208167
+p1654
+sa(dp1655
+g4
+VMike Myers
+p1656
+sg6
+I12073
+sg7
+Vnm0000196
+p1657
+sasVtt0440963
+p1658
+(lp1659
+(dp1660
+g4
+VMatt Damon
+p1661
+sg6
+I1892
+sg7
+Vnm0000354
+p1662
+sa(dp1663
+g4
+VJulia Stiles
+p1664
+sg6
+I12041
+sg7
+Vnm0005466
+p1665
+sa(dp1666
+g4
+VDavid Strathairn
+p1667
+sg6
+I11064
+sg7
+Vnm0000657
+p1668
+sa(dp1669
+g4
+VScott Glenn
+p1670
+sg6
+I349
+sg7
+Vnm0001277
+p1671
+sa(dp1672
+g4
+VPaddy Considine
+p1673
+sg6
+I14887
+sg7
+Vnm0175916
+p1674
+sasVtt0435761
+p1675
+(lp1676
+(dp1677
+g4
+VTom Hanks
+p1678
+sg6
+I31
+sg7
+Vnm0000158
+p1679
+sa(dp1680
+g4
+VTim Allen
+p1681
+sg6
+I12898
+sg7
+Vnm0000741
+p1682
+sa(dp1683
+g4
+VNed Beatty
+p1684
+sg6
+I13726
+sg7
+Vnm0000885
+p1685
+sa(dp1686
+g4
+VJoan Cusack
+p1687
+sg6
+I3234
+sg7
+Vnm0000349
+p1688
+sa(dp1689
+g4
+VMichael Keaton
+p1690
+sg6
+I2232
+sg7
+Vnm0000474
+p1691
+sasVtt0119217
+p1692
+(lp1693
+(dp1694
+g4
+VMatt Damon
+p1695
+sg6
+I1892
+sg7
+Vnm0000354
+p1696
+sa(dp1697
+g4
+VRobin Williams
+p1698
+sg6
+I2157
+sg7
+Vnm0000245
+p1699
+sa(dp1700
+g4
+VBen Affleck
+p1701
+sg6
+I880
+sg7
+Vnm0000255
+p1702
+sa(dp1703
+g4
+VStellan Skarsgård
+p1704
+sg6
+I1640
+sg7
+Vnm0001745
+p1705
+sa(dp1706
+g4
+VMinnie Driver
+p1707
+sg6
+I6613
+sg7
+Vnm0000378
+p1708
+sasVtt1049413
+p1709
+(lp1710
+(dp1711
+g4
+VEdward Asner
+p1712
+sg6
+I68812
+sg7
+Vnm0000799
+p1713
+sa(dp1714
+g4
+VChristopher Plummer
+p1715
+sg6
+I290
+sg7
+Vnm0001626
+p1716
+sa(dp1717
+g4
+VJordan Nagai
+p1718
+sg6
+I80676
+sg7
+Vnm2973712
+p1719
+sa(dp1720
+g4
+VBob Peterson
+p1721
+sg6
+I10
+sg7
+Vnm0677037
+p1722
+sa(dp1723
+g4
+VDelroy Lindo
+p1724
+sg6
+I18792
+sg7
+Vnm0005148
+p1725
+sasVtt0093058
+p1726
+(lp1727
+(dp1728
+g4
+VMatthew Modine
+p1729
+sg6
+I8654
+sg7
+Vnm0000546
+p1730
+sa(dp1731
+g4
+VAdam Baldwin
+p1732
+sg6
+I2059
+sg7
+Vnm0000284
+p1733
+sa(dp1734
+g4
+VVincent D'Onofrio
+p1735
+sg6
+I7132
+sg7
+Vnm0000352
+p1736
+sa(dp1737
+g4
+VR. Lee Ermey
+p1738
+sg6
+I8655
+sg7
+Vnm0000388
+p1739
+sa(dp1740
+g4
+VDorian Harewood
+p1741
+sg6
+I8656
+sg7
+Vnm0002126
+p1742
+sasVtt0266697
+p1743
+(lp1744
+(dp1745
+g4
+VUma Thurman
+p1746
+sg6
+I139
+sg7
+Vnm0000235
+p1747
+sa(dp1748
+g4
+VLucy Liu
+p1749
+sg6
+I140
+sg7
+Vnm0005154
+p1750
+sa(dp1751
+g4
+VVivica A. Fox
+p1752
+sg6
+I2535
+sg7
+Vnm0000407
+p1753
+sa(dp1754
+g4
+VDaryl Hannah
+p1755
+sg6
+I589
+sg7
+Vnm0000435
+p1756
+sa(dp1757
+g4
+VDavid Carradine
+p1758
+sg6
+I141
+sg7
+Vnm0001016
+p1759
+sasVtt0038787
+p1760
+(lp1761
+(dp1762
+g4
+VCary Grant
+p1763
+sg6
+I2638
+sg7
+Vnm0000026
+p1764
+sa(dp1765
+g4
+VIngrid Bergman
+p1766
+sg6
+I4111
+sg7
+Vnm0000006
+p1767
+sa(dp1768
+g4
+VClaude Rains
+p1769
+sg6
+I4113
+sg7
+Vnm0001647
+p1770
+sa(dp1771
+g4
+VLouis Calhern
+p1772
+sg6
+I4343
+sg7
+Vnm0129894
+p1773
+sa(dp1774
+g4
+VLeopoldine Konstantin
+p1775
+sg6
+I4342
+sg7
+Vnm0465369
+p1776
+sasVtt0211915
+p1777
+(lp1778
+(dp1779
+g4
+VAudrey Tautou
+p1780
+sg6
+I2405
+sg7
+Vnm0851582
+p1781
+sa(dp1782
+g4
+VMathieu Kassovitz
+p1783
+sg6
+I2406
+sg7
+Vnm0440913
+p1784
+sa(dp1785
+g4
+VRufus
+p1786
+sg6
+I17328
+sg7
+Vnm0001722
+p1787
+sa(dp1788
+g4
+VJamel Debbouze
+p1789
+sg6
+I2408
+sg7
+Vnm0213354
+p1790
+sa(dp1791
+g4
+VClaire Maurier
+p1792
+sg6
+I1654
+sg7
+Vnm0561158
+p1793
+sasVtt0031679
+p1794
+(lp1795
+(dp1796
+g4
+VJean Arthur
+p1797
+sg6
+I30210
+sg7
+Vnm0000795
+p1798
+sa(dp1799
+g4
+VJames Stewart
+p1800
+sg6
+I854
+sg7
+Vnm0000071
+p1801
+sa(dp1802
+g4
+VClaude Rains
+p1803
+sg6
+I4113
+sg7
+Vnm0001647
+p1804
+sa(dp1805
+g4
+VEdward Arnold
+p1806
+sg6
+I30211
+sg7
+Vnm0036427
+p1807
+sa(dp1808
+g4
+VGuy Kibbee
+p1809
+sg6
+I30002
+sg7
+Vnm0452128
+p1810
+sasVtt0118694
+p1811
+(lp1812
+(dp1813
+g4
+VTony Leung Chiu-Wai
+p1814
+sg6
+I1337
+sg7
+Vnm0504897
+p1815
+sa(dp1816
+g4
+VMaggie Cheung
+p1817
+sg6
+I1338
+sg7
+Vnm0001041
+p1818
+sa(dp1819
+g4
+VSiu Ping-Lam
+p1820
+sg6
+I12674
+sg7
+Vnm0803310
+p1821
+sa(dp1822
+g4
+VRebecca Pan
+p1823
+sg6
+I12462
+sg7
+Vnm0659029
+p1824
+sa(dp1825
+g4
+VKelly Lai Chen
+p1826
+sg6
+I12463
+sg7
+Vnm0155285
+p1827
+sasVtt0080684
+p1828
+(lp1829
+(dp1830
+g4
+VMark Hamill
+p1831
+sg6
+I2
+sg7
+Vnm0000434
+p1832
+sa(dp1833
+g4
+VHarrison Ford
+p1834
+sg6
+I3
+sg7
+Vnm0000148
+p1835
+sa(dp1836
+g4
+VCarrie Fisher
+p1837
+sg6
+I4
+sg7
+Vnm0000402
+p1838
+sa(dp1839
+g4
+VDavid Prowse
+p1840
+sg6
+I24342
+sg7
+Vnm0001190
+p1841
+sa(dp1842
+g4
+VBilly Dee Williams
+p1843
+sg6
+I3799
+sg7
+Vnm0001850
+p1844
+sasVtt0056172
+p1845
+(lp1846
+(dp1847
+g4
+VPeter O'Toole
+p1848
+sg6
+I11390
+sg7
+Vnm0000564
+p1849
+sa(dp1850
+g4
+VAlec Guinness
+p1851
+sg6
+I12248
+sg7
+Vnm0000027
+p1852
+sa(dp1853
+g4
+VAnthony Quinn
+p1854
+sg6
+I5401
+sg7
+Vnm0000063
+p1855
+sa(dp1856
+g4
+VJack Hawkins
+p1857
+sg6
+I10018
+sg7
+Vnm0370144
+p1858
+sa(dp1859
+g4
+VOmar Sharif
+p1860
+sg6
+I5004
+sg7
+Vnm0001725
+p1861
+sasVtt0102926
+p1862
+(lp1863
+(dp1864
+g4
+VAnthony Hopkins
+p1865
+sg6
+I4173
+sg7
+Vnm0000164
+p1866
+sa(dp1867
+g4
+VJodie Foster
+p1868
+sg6
+I1038
+sg7
+Vnm0000149
+p1869
+sa(dp1870
+g4
+VScott Glenn
+p1871
+sg6
+I349
+sg7
+Vnm0001277
+p1872
+sa(dp1873
+g4
+VTed Levine
+p1874
+sg6
+I15854
+sg7
+Vnm0505971
+p1875
+sa(dp1876
+g4
+VAnthony Heald
+p1877
+sg6
+I16293
+sg7
+Vnm0372217
+p1878
+sasVtt0053198
+p1879
+(lp1880
+(dp1881
+g4
+VJean-Pierre Léaud
+p1882
+sg6
+I1653
+sg7
+Vnm0529543
+p1883
+sa(dp1884
+g4
+VClaire Maurier
+p1885
+sg6
+I1654
+sg7
+Vnm0561158
+p1886
+sa(dp1887
+g4
+VAlbert Rémy
+p1888
+sg6
+I1655
+sg7
+Vnm0753716
+p1889
+sa(dp1890
+g4
+VGeorges Flamant
+p1891
+sg6
+I1658
+sg7
+Vnm0280961
+p1892
+sa(dp1893
+g4
+VPatrick Auffay
+p1894
+sg6
+I1659
+sg7
+Vnm0041756
+p1895
+sasVtt0317248
+p1896
+(lp1897
+(dp1898
+g4
+VAlexandre Rodrigues
+p1899
+sg6
+I8595
+sg7
+Vnm1179105
+p1900
+sa(dp1901
+g4
+VLeandro Firmino
+p1902
+sg6
+I8596
+sg7
+Vnm1129884
+p1903
+sa(dp1904
+g4
+VPhellipe Haagensen
+p1905
+sg6
+I8597
+sg7
+Vnm1249574
+p1906
+sa(dp1907
+g4
+VDouglas Silva
+p1908
+sg6
+I8598
+sg7
+Vnm1179683
+p1909
+sa(dp1910
+g4
+VJonathan Haagensen
+p1911
+sg6
+I8599
+sg7
+Vnm1178560
+p1912
+sasVtt0032138
+p1913
+(lp1914
+(dp1915
+g4
+VJudy Garland
+p1916
+sg6
+I9066
+sg7
+Vnm0000023
+p1917
+sa(dp1918
+g4
+VFrank Morgan
+p1919
+sg6
+I9067
+sg7
+Vnm0604656
+p1920
+sa(dp1921
+g4
+VRay Bolger
+p1922
+sg6
+I9068
+sg7
+Vnm0001961
+p1923
+sa(dp1924
+g4
+VBert Lahr
+p1925
+sg6
+I9069
+sg7
+Vnm0481618
+p1926
+sa(dp1927
+g4
+VJack Haley
+p1928
+sg6
+I17183
+sg7
+Vnm0355097
+p1929
+sasVtt0050825
+p1930
+(lp1931
+(dp1932
+g4
+VKirk Douglas
+p1933
+sg6
+I2090
+sg7
+Vnm0000018
+p1934
+sa(dp1935
+g4
+VRalph Meeker
+p1936
+sg6
+I14562
+sg7
+Vnm0576127
+p1937
+sa(dp1938
+g4
+VAdolphe Menjou
+p1939
+sg6
+I14563
+sg7
+Vnm0579663
+p1940
+sa(dp1941
+g4
+VGeorge Macready
+p1942
+sg6
+I14564
+sg7
+Vnm0534317
+p1943
+sa(dp1944
+g4
+VWayne Morris
+p1945
+sg6
+I1369226
+sg7
+g88
+sasVtt0042876
+p1946
+(lp1947
+(dp1948
+g4
+VToshir\u014d Mifune
+p1949
+sg6
+I7450
+sg7
+Vnm0001536
+p1950
+sa(dp1951
+g4
+VMachiko Kyô
+p1952
+sg6
+I7451
+sg7
+Vnm0477553
+p1953
+sa(dp1954
+g4
+VMasayuki Mori
+p1955
+sg6
+I7452
+sg7
+Vnm0605270
+p1956
+sa(dp1957
+g4
+VTakashi Shimura
+p1958
+sg6
+I7453
+sg7
+Vnm0793766
+p1959
+sa(dp1960
+g4
+VMinoru Chiaki
+p1961
+sg6
+I7454
+sg7
+Vnm0156928
+p1962
+sasVtt0083987
+p1963
+(lp1964
+(dp1965
+g4
+VBen Kingsley
+p1966
+sg6
+I2282
+sg7
+Vnm0001426
+p1967
+sa(dp1968
+g4
+VRohini Hattangadi
+p1969
+sg6
+I1316331
+sg7
+g88
+sa(dp1970
+g4
+VCandice Bergen
+p1971
+sg6
+I11850
+sg7
+Vnm0000298
+p1972
+sa(dp1973
+g4
+VRoshan Seth
+p1974
+sg6
+I693
+sg7
+Vnm0786022
+p1975
+sa(dp1976
+g4
+VOm Puri
+p1977
+sg6
+I11851
+sg7
+Vnm0700875
+p1978
+sasVtt0245429
+p1979
+(lp1980
+(dp1981
+g4
+VRumi Hiiragi
+p1982
+sg6
+I19587
+sg7
+Vnm0383708
+p1983
+sa(dp1984
+g4
+VMiyu Irino
+p1985
+sg6
+I19588
+sg7
+Vnm0997115
+p1986
+sa(dp1987
+g4
+VMari Natsuki
+p1988
+sg6
+I19589
+sg7
+Vnm0622412
+p1989
+sa(dp1990
+g4
+VTakashi Naitô
+p1991
+sg6
+I19590
+sg7
+Vnm0619822
+p1992
+sa(dp1993
+g4
+VYasuko Sawaguchi
+p1994
+sg6
+I19591
+sg7
+Vnm0768005
+p1995
+sasVtt0086190
+p1996
+(lp1997
+(dp1998
+g4
+VMark Hamill
+p1999
+sg6
+I2
+sg7
+Vnm0000434
+p2000
+sa(dp2001
+g4
+VHarrison Ford
+p2002
+sg6
+I3
+sg7
+Vnm0000148
+p2003
+sa(dp2004
+g4
+VCarrie Fisher
+p2005
+sg6
+I4
+sg7
+Vnm0000402
+p2006
+sa(dp2007
+g4
+VBilly Dee Williams
+p2008
+sg6
+I3799
+sg7
+Vnm0001850
+p2009
+sa(dp2010
+g4
+VAnthony Daniels
+p2011
+sg6
+I6
+sg7
+Vnm0000355
+p2012
+sasVtt1832382
+p2013
+(lp2014
+(dp2015
+g4
+VLeila Hatami
+p2016
+sg6
+I240240
+sg7
+g88
+sa(dp2017
+g4
+VKimia Hosseini
+p2018
+sg6
+I240242
+sg7
+g88
+sa(dp2019
+g4
+VMerila Zarei
+p2020
+sg6
+I240243
+sg7
+g88
+sa(dp2021
+g4
+VPeyman Moaadi
+p2022
+sg6
+I559566
+sg7
+g88
+sa(dp2023
+g4
+VSareh Bayat
+p2024
+sg6
+I559567
+sg7
+g88
+sasVtt0044079
+p2025
+(lp2026
+(dp2027
+g4
+VFarley Granger
+p2028
+sg6
+I12497
+sg7
+Vnm0335048
+p2029
+sa(dp2030
+g4
+VRuth Roman
+p2031
+sg6
+I12498
+sg7
+Vnm0738746
+p2032
+sa(dp2033
+g4
+VRobert Walker
+p2034
+sg6
+I1142897
+sg7
+g88
+sa(dp2035
+g4
+VLeo G. Carroll
+p2036
+sg6
+I2642
+sg7
+Vnm0001991
+p2037
+sa(dp2038
+g4
+VPatricia Hitchcock
+p2039
+sg6
+I12500
+sg7
+Vnm0386877
+p2040
+sasVtt0180093
+p2041
+(lp2042
+(dp2043
+g4
+VEllen Burstyn
+p2044
+sg6
+I9560
+sg7
+Vnm0000995
+p2045
+sa(dp2046
+g4
+VJared Leto
+p2047
+sg6
+I7499
+sg7
+Vnm0001467
+p2048
+sa(dp2049
+g4
+VJennifer Connelly
+p2050
+sg6
+I6161
+sg7
+Vnm0000124
+p2051
+sa(dp2052
+g4
+VMarlon Wayans
+p2053
+sg6
+I9562
+sg7
+Vnm0005541
+p2054
+sa(dp2055
+g4
+VChristopher McDonald
+p2056
+sg6
+I4443
+sg7
+Vnm0001520
+p2057
+sasVtt0114369
+p2058
+(lp2059
+(dp2060
+g4
+VBrad Pitt
+p2061
+sg6
+I287
+sg7
+Vnm0000093
+p2062
+sa(dp2063
+g4
+VMorgan Freeman
+p2064
+sg6
+I192
+sg7
+Vnm0000151
+p2065
+sa(dp2066
+g4
+VGwyneth Paltrow
+p2067
+sg6
+I12052
+sg7
+Vnm0000569
+p2068
+sa(dp2069
+g4
+VR. Lee Ermey
+p2070
+sg6
+I8655
+sg7
+Vnm0000388
+p2071
+sa(dp2072
+g4
+VAndrew Kevin Walker
+p2073
+sg6
+I12047
+sg7
+Vnm0001825
+p2074
+sasVtt0133093
+p2075
+(lp2076
+(dp2077
+g4
+VKeanu Reeves
+p2078
+sg6
+I6384
+sg7
+Vnm0000206
+p2079
+sa(dp2080
+g4
+VLaurence Fishburne
+p2081
+sg6
+I2975
+sg7
+Vnm0000401
+p2082
+sa(dp2083
+g4
+VCarrie-Anne Moss
+p2084
+sg6
+I530
+sg7
+Vnm0005251
+p2085
+sa(dp2086
+g4
+VHugo Weaving
+p2087
+sg6
+I1331
+sg7
+Vnm0915989
+p2088
+sa(dp2089
+g4
+VGloria Foster
+p2090
+sg6
+I9364
+sg7
+Vnm0287825
+p2091
+sasVtt0091763
+p2092
+(lp2093
+(dp2094
+g4
+VTom Berenger
+p2095
+sg6
+I13022
+sg7
+Vnm0000297
+p2096
+sa(dp2097
+g4
+VCharlie Sheen
+p2098
+sg6
+I6952
+sg7
+Vnm0000221
+p2099
+sa(dp2100
+g4
+VWillem Dafoe
+p2101
+sg6
+I5293
+sg7
+Vnm0000353
+p2102
+sa(dp2103
+g4
+VForest Whitaker
+p2104
+sg6
+I2178
+sg7
+Vnm0001845
+p2105
+sa(dp2106
+g4
+VJohn C. McGinley
+p2107
+sg6
+I11885
+sg7
+Vnm0001525
+p2108
+sasVtt0246578
+p2109
+(lp2110
+(dp2111
+g4
+VJake Gyllenhaal
+p2112
+sg6
+I131
+sg7
+Vnm0350453
+p2113
+sa(dp2114
+g4
+VPatrick Swayze
+p2115
+sg6
+I723
+sg7
+Vnm0000664
+p2116
+sa(dp2117
+g4
+VDrew Barrymore
+p2118
+sg6
+I69597
+sg7
+Vnm0000106
+p2119
+sa(dp2120
+g4
+VMaggie Gyllenhaal
+p2121
+sg6
+I1579
+sg7
+Vnm0350454
+p2122
+sa(dp2123
+g4
+VHolmes Osborne
+p2124
+sg6
+I1578
+sg7
+Vnm0651660
+p2125
+sasVtt0167404
+p2126
+(lp2127
+(dp2128
+g4
+VBruce Willis
+p2129
+sg6
+I62
+sg7
+Vnm0000246
+p2130
+sa(dp2131
+g4
+VHaley Joel Osment
+p2132
+sg6
+I9640
+sg7
+Vnm0005286
+p2133
+sa(dp2134
+g4
+VToni Collette
+p2135
+sg6
+I3051
+sg7
+Vnm0001057
+p2136
+sa(dp2137
+g4
+VOlivia Williams
+p2138
+sg6
+I11616
+sg7
+Vnm0931404
+p2139
+sa(dp2140
+g4
+VMischa Barton
+p2141
+sg6
+I11617
+sg7
+Vnm0059215
+p2142
+sasVtt0090605
+p2143
+(lp2144
+(dp2145
+g4
+VSigourney Weaver
+p2146
+sg6
+I10205
+sg7
+Vnm0000244
+p2147
+sa(dp2148
+g4
+VCarrie Henn
+p2149
+sg6
+I10206
+sg7
+Vnm0001343
+p2150
+sa(dp2151
+g4
+VMichael Biehn
+p2152
+sg6
+I2712
+sg7
+Vnm0000299
+p2153
+sa(dp2154
+g4
+VLance Henriksen
+p2155
+sg6
+I2714
+sg7
+Vnm0000448
+p2156
+sa(dp2157
+g4
+VPaul Reiser
+p2158
+sg6
+I781
+sg7
+Vnm0001663
+p2159
+sasVtt0083922
+p2160
+(lp2161
+(dp2162
+g4
+VAllan Edwall
+p2163
+sg6
+I3857
+sg7
+Vnm0249735
+p2164
+sa(dp2165
+g4
+VEwa Fröling
+p2166
+sg6
+I46866
+sg7
+Vnm0297083
+p2167
+sa(dp2168
+g4
+VErland Josephson
+p2169
+sg6
+I38127
+sg7
+g88
+sa(dp2170
+g4
+VBertil Guve
+p2171
+sg6
+I46864
+sg7
+g88
+sa(dp2172
+g4
+VPernilla Allwin
+p2173
+sg6
+I46865
+sg7
+Vnm0021655
+p2174
+sasVtt0120735
+p2175
+(lp2176
+(dp2177
+g4
+VJason Flemyng
+p2178
+sg6
+I973
+sg7
+Vnm0002076
+p2179
+sa(dp2180
+g4
+VDexter Fletcher
+p2181
+sg6
+I974
+sg7
+Vnm0002077
+p2182
+sa(dp2183
+g4
+VNick Moran
+p2184
+sg6
+I975
+sg7
+Vnm0602941
+p2185
+sa(dp2186
+g4
+VJason Statham
+p2187
+sg6
+I976
+sg7
+Vnm0005458
+p2188
+sa(dp2189
+g4
+VSteven Mackintosh
+p2190
+sg6
+I978
+sg7
+Vnm0533599
+p2191
+sasVtt1205489
+p2192
+(lp2193
+(dp2194
+g4
+VClint Eastwood
+p2195
+sg6
+I190
+sg7
+Vnm0000142
+p2196
+sa(dp2197
+g4
+VCory Hardrict
+p2198
+sg6
+I74302
+sg7
+Vnm0362484
+p2199
+sa(dp2200
+g4
+VJohn Carroll Lynch
+p2201
+sg6
+I3911
+sg7
+Vnm0002253
+p2202
+sa(dp2203
+g4
+VGeraldine Hughes
+p2204
+sg6
+I16502
+sg7
+Vnm0400625
+p2205
+sa(dp2206
+g4
+VBrian Haley
+p2207
+sg6
+I10138
+sg7
+Vnm0355083
+p2208
+sasVtt1201607
+p2209
+(lp2210
+(dp2211
+g4
+VDaniel Radcliffe
+p2212
+sg6
+I10980
+sg7
+Vnm0705356
+p2213
+sa(dp2214
+g4
+VRupert Grint
+p2215
+sg6
+I10989
+sg7
+Vnm0342488
+p2216
+sa(dp2217
+g4
+VEmma Watson
+p2218
+sg6
+I10990
+sg7
+Vnm0914612
+p2219
+sa(dp2220
+g4
+VAlan Rickman
+p2221
+sg6
+I4566
+sg7
+Vnm0000614
+p2222
+sa(dp2223
+g4
+VMaggie Smith
+p2224
+sg6
+I10978
+sg7
+Vnm0001749
+p2225
+sasVtt0083658
+p2226
+(lp2227
+(dp2228
+g4
+VHarrison Ford
+p2229
+sg6
+I3
+sg7
+Vnm0000148
+p2230
+sa(dp2231
+g4
+VRutger Hauer
+p2232
+sg6
+I585
+sg7
+Vnm0000442
+p2233
+sa(dp2234
+g4
+VSean Young
+p2235
+sg6
+I586
+sg7
+Vnm0000707
+p2236
+sa(dp2237
+g4
+VEdward James Olmos
+p2238
+sg6
+I587
+sg7
+Vnm0001579
+p2239
+sa(dp2240
+g4
+VDaryl Hannah
+p2241
+sg6
+I589
+sg7
+Vnm0000435
+p2242
+sasVtt0110413
+p2243
+(lp2244
+(dp2245
+g4
+VJean Reno
+p2246
+sg6
+I1003
+sg7
+Vnm0000606
+p2247
+sa(dp2248
+g4
+VNatalie Portman
+p2249
+sg6
+I524
+sg7
+Vnm0000204
+p2250
+sa(dp2251
+g4
+VGary Oldman
+p2252
+sg6
+I64
+sg7
+Vnm0000198
+p2253
+sa(dp2254
+g4
+VDanny Aiello
+p2255
+sg6
+I1004
+sg7
+Vnm0000732
+p2256
+sa(dp2257
+g4
+VPeter Appel
+p2258
+sg6
+I1005
+sg7
+Vnm0032216
+p2259
+sasVtt0073195
+p2260
+(lp2261
+(dp2262
+g4
+VRoy Scheider
+p2263
+sg6
+I6355
+sg7
+Vnm0001702
+p2264
+sa(dp2265
+g4
+VRobert Shaw
+p2266
+sg6
+I81097
+sg7
+Vnm0731575
+p2267
+sa(dp2268
+g4
+VRichard Dreyfuss
+p2269
+sg6
+I3037
+sg7
+Vnm0000377
+p2270
+sa(dp2271
+g4
+VLorraine Gary
+p2272
+sg6
+I8607
+sg7
+Vnm0308882
+p2273
+sa(dp2274
+g4
+VMurray Hamilton
+p2275
+sg6
+I8608
+sg7
+Vnm0358069
+p2276
+sasVtt0058461
+p2277
+(lp2278
+(dp2279
+g4
+VClint Eastwood
+p2280
+sg6
+I190
+sg7
+Vnm0000142
+p2281
+sa(dp2282
+g4
+VMarianne Koch
+p2283
+sg6
+I16309
+sg7
+Vnm0462367
+p2284
+sa(dp2285
+g4
+VWolfgang Lukschy
+p2286
+sg6
+I16310
+sg7
+Vnm0525742
+p2287
+sa(dp2288
+g4
+VJosé Calvo
+p2289
+sg6
+I16311
+sg7
+Vnm0130952
+p2290
+sa(dp2291
+g4
+VGian Maria Volonté
+p2292
+sg6
+I14276
+sg7
+Vnm0002231
+p2293
+sasVtt0119698
+p2294
+(lp2295
+(dp2296
+g4
+VY\u014dji Matsuda
+p2297
+sg6
+I622
+sg7
+Vnm0559444
+p2298
+sa(dp2299
+g4
+VYuriko Ishida
+p2300
+sg6
+I20330
+sg7
+Vnm0410942
+p2301
+sa(dp2302
+g4
+VY\u016bko Tanaka
+p2303
+sg6
+I20331
+sg7
+Vnm0849100
+p2304
+sa(dp2305
+g4
+VKaoru Kobayashi
+p2306
+sg6
+I20332
+sg7
+Vnm0462006
+p2307
+sa(dp2308
+g4
+VMasahiko Nishimura
+p2309
+sg6
+I20333
+sg7
+Vnm0632761
+p2310
+sasVtt0092067
+p2311
+(lp2312
+(dp2313
+g4
+VKeiko Yokozawa
+p2314
+sg6
+I65509
+sg7
+Vnm0948445
+p2315
+sa(dp2316
+g4
+VMayumi Tanaka
+p2317
+sg6
+I65510
+sg7
+Vnm0849028
+p2318
+sa(dp2319
+g4
+VMinori Terada
+p2320
+sg6
+I65511
+sg7
+Vnm0855385
+p2321
+sa(dp2322
+g4
+VKotoe Hatsui
+p2323
+sg6
+I65512
+sg7
+Vnm0368969
+p2324
+sa(dp2325
+g4
+VFujio Tokita
+p2326
+sg6
+I142455
+sg7
+Vnm0865757
+p2327
+sasVtt0066921
+p2328
+(lp2329
+(dp2330
+g4
+VMalcolm McDowell
+p2331
+sg6
+I56890
+sg7
+Vnm0000532
+p2332
+sa(dp2333
+g4
+VPatrick Magee
+p2334
+sg6
+I2264
+sg7
+Vnm0535861
+p2335
+sa(dp2336
+g4
+VAdrienne Corri
+p2337
+sg6
+I2265
+sg7
+Vnm0180920
+p2338
+sa(dp2339
+g4
+VMichael Bates
+p2340
+sg6
+I2267
+sg7
+Vnm0060988
+p2341
+sa(dp2342
+g4
+VWarren Clarke
+p2343
+sg6
+I2268
+sg7
+Vnm0165049
+p2344
+sasVtt0120689
+p2345
+(lp2346
+(dp2347
+g4
+VTom Hanks
+p2348
+sg6
+I31
+sg7
+Vnm0000158
+p2349
+sa(dp2350
+g4
+VMichael Clarke Duncan
+p2351
+sg6
+I61981
+sg7
+Vnm0003817
+p2352
+sa(dp2353
+g4
+VDavid Morse
+p2354
+sg6
+I52
+sg7
+Vnm0001556
+p2355
+sa(dp2356
+g4
+VBonnie Hunt
+p2357
+sg6
+I5149
+sg7
+Vnm0001372
+p2358
+sa(dp2359
+g4
+VJames Cromwell
+p2360
+sg6
+I2505
+sg7
+Vnm0000342
+p2361
+sasVtt0057012
+p2362
+(lp2363
+(dp2364
+g4
+VPeter Sellers
+p2365
+sg6
+I12446
+sg7
+Vnm0000634
+p2366
+sa(dp2367
+g4
+VGeorge C. Scott
+p2368
+sg6
+I862
+sg7
+Vnm0001715
+p2369
+sa(dp2370
+g4
+VSterling Hayden
+p2371
+sg6
+I3088
+sg7
+Vnm0001330
+p2372
+sa(dp2373
+g4
+VKeenan Wynn
+p2374
+sg6
+I4966
+sg7
+Vnm0943978
+p2375
+sa(dp2376
+g4
+VSlim Pickens
+p2377
+sg6
+I14253
+sg7
+Vnm0001620
+p2378
+sasVtt0096283
+p2379
+(lp2380
+(dp2381
+g4
+VNoriko Hidaka
+p2382
+sg6
+I55662
+sg7
+Vnm0383022
+p2383
+sa(dp2384
+g4
+VHitoshi Takagi
+p2385
+sg6
+I55663
+sg7
+Vnm0847054
+p2386
+sa(dp2387
+g4
+VChika Sakamoto
+p2388
+sg6
+I55664
+sg7
+Vnm0757076
+p2389
+sa(dp2390
+g4
+VShigesato Itoi
+p2391
+sg6
+I55665
+sg7
+Vnm0411790
+p2392
+sa(dp2393
+g4
+VSumi Shimamoto
+p2394
+sg6
+I613
+sg7
+Vnm0793585
+p2395
+sasVtt0064115
+p2396
+(lp2397
+(dp2398
+g4
+VPaul Newman
+p2399
+sg6
+I3636
+sg7
+Vnm0000056
+p2400
+sa(dp2401
+g4
+VRobert Redford
+p2402
+sg6
+I4135
+sg7
+Vnm0000602
+p2403
+sa(dp2404
+g4
+VKatharine Ross
+p2405
+sg6
+I9594
+sg7
+Vnm0001684
+p2406
+sa(dp2407
+g4
+VStrother Martin
+p2408
+sg6
+I8260
+sg7
+Vnm0001510
+p2409
+sa(dp2410
+g4
+VHenry Jones
+p2411
+sg6
+I5732
+sg7
+Vnm0428216
+p2412
+sasVtt0064116
+p2413
+(lp2414
+(dp2415
+g4
+VHenry Fonda
+p2416
+sg6
+I4958
+sg7
+Vnm0000020
+p2417
+sa(dp2418
+g4
+VClaudia Cardinale
+p2419
+sg6
+I4959
+sg7
+Vnm0001012
+p2420
+sa(dp2421
+g4
+VJason Robards
+p2422
+sg6
+I4765
+sg7
+Vnm0001673
+p2423
+sa(dp2424
+g4
+VCharles Bronson
+p2425
+sg6
+I4960
+sg7
+Vnm0000314
+p2426
+sa(dp2427
+g4
+VGabriele Ferzetti
+p2428
+sg6
+I4961
+sg7
+Vnm0275213
+p2429
+sasVtt0114709
+p2430
+(lp2431
+(dp2432
+g4
+VTom Hanks
+p2433
+sg6
+I31
+sg7
+Vnm0000158
+p2434
+sa(dp2435
+g4
+VTim Allen
+p2436
+sg6
+I12898
+sg7
+Vnm0000741
+p2437
+sa(dp2438
+g4
+VDon Rickles
+p2439
+sg6
+I7167
+sg7
+Vnm0725543
+p2440
+sa(dp2441
+g4
+VJim Varney
+p2442
+sg6
+I12899
+sg7
+Vnm0001815
+p2443
+sa(dp2444
+g4
+VWallace Shawn
+p2445
+sg6
+I12900
+sg7
+Vnm0001728
+p2446
+sasVtt0047528
+p2447
+(lp2448
+(dp2449
+g4
+VAnthony Quinn
+p2450
+sg6
+I5401
+sg7
+Vnm0000063
+p2451
+sa(dp2452
+g4
+VGiulietta Masina
+p2453
+sg6
+I5402
+sg7
+Vnm0556399
+p2454
+sa(dp2455
+g4
+VRichard Basehart
+p2456
+sg6
+I5403
+sg7
+Vnm0000865
+p2457
+sa(dp2458
+g4
+VAldo Silvani
+p2459
+sg6
+I5404
+sg7
+Vnm0798570
+p2460
+sa(dp2461
+g4
+VMarcella Rovere
+p2462
+sg6
+I5405
+sg7
+Vnm0746293
+p2463
+sasVtt0079470
+p2464
+(lp2465
+(dp2466
+g4
+VGraham Chapman
+p2467
+sg6
+I10722
+sg7
+Vnm0001037
+p2468
+sa(dp2469
+g4
+VJohn Cleese
+p2470
+sg6
+I8930
+sg7
+Vnm0000092
+p2471
+sa(dp2472
+g4
+VTerry Gilliam
+p2473
+sg6
+I280
+sg7
+Vnm0000416
+p2474
+sa(dp2475
+g4
+VEric Idle
+p2476
+sg6
+I10713
+sg7
+Vnm0001385
+p2477
+sa(dp2478
+g4
+VTerry Jones
+p2479
+sg6
+I10707
+sg7
+Vnm0001402
+p2480
+sasVtt0061184
+p2481
+(lp2482
+(dp2483
+g4
+VElizabeth Taylor
+p2484
+sg6
+I3635
+sg7
+Vnm0000072
+p2485
+sa(dp2486
+g4
+VRichard Burton
+p2487
+sg6
+I5341
+sg7
+Vnm0000009
+p2488
+sa(dp2489
+g4
+VGeorge Segal
+p2490
+sg6
+I18364
+sg7
+Vnm0001719
+p2491
+sa(dp2492
+g4
+VSandy Dennis
+p2493
+sg6
+I18365
+sg7
+Vnm0006800
+p2494
+sa(dp2495
+g4
+VAgnes Flanagan
+p2496
+sg6
+I17672
+sg7
+Vnm0281004
+p2497
+sasVtt0105236
+p2498
+(lp2499
+(dp2500
+g4
+VHarvey Keitel
+p2501
+sg6
+I1037
+sg7
+Vnm0000172
+p2502
+sa(dp2503
+g4
+VTim Roth
+p2504
+sg6
+I3129
+sg7
+Vnm0000619
+p2505
+sa(dp2506
+g4
+VMichael Madsen
+p2507
+sg6
+I147
+sg7
+Vnm0000514
+p2508
+sa(dp2509
+g4
+VChris Penn
+p2510
+sg6
+I2969
+sg7
+Vnm0001606
+p2511
+sa(dp2512
+g4
+VSteve Buscemi
+p2513
+sg6
+I884
+sg7
+Vnm0000114
+p2514
+sasVtt0081505
+p2515
+(lp2516
+(dp2517
+g4
+VJack Nicholson
+p2518
+sg6
+I514
+sg7
+Vnm0000197
+p2519
+sa(dp2520
+g4
+VShelley Duvall
+p2521
+sg6
+I10409
+sg7
+Vnm0001167
+p2522
+sa(dp2523
+g4
+VDanny Lloyd
+p2524
+sg6
+I10410
+sg7
+Vnm0515950
+p2525
+sa(dp2526
+g4
+VScatman Crothers
+p2527
+sg6
+I7077
+sg7
+Vnm0001079
+p2528
+sa(dp2529
+g4
+VBarry Nelson
+p2530
+sg6
+I10411
+sg7
+Vnm0625167
+p2531
+sasVtt1010048
+p2532
+(lp2533
+(dp2534
+g4
+VAnil Kapoor
+p2535
+sg6
+I72118
+sg7
+Vnm0438463
+p2536
+sa(dp2537
+g4
+VMia Drake Inderbitzin
+p2538
+sg6
+I72119
+sg7
+Vnm1038325
+p2539
+sa(dp2540
+g4
+VDev Patel
+p2541
+sg6
+I76788
+sg7
+Vnm2353862
+p2542
+sa(dp2543
+g4
+VSaurabh Shukla
+p2544
+sg6
+I76789
+sg7
+Vnm0795661
+p2545
+sa(dp2546
+g4
+VRajendranath Zutshi
+p2547
+sg6
+I76790
+sg7
+Vnm0958861
+p2548
+sasVtt0038650
+p2549
+(lp2550
+(dp2551
+g4
+VJames Stewart
+p2552
+sg6
+I854
+sg7
+Vnm0000071
+p2553
+sa(dp2554
+g4
+VDonna Reed
+p2555
+sg6
+I17752
+sg7
+Vnm0001656
+p2556
+sa(dp2557
+g4
+VLionel Barrymore
+p2558
+sg6
+I17753
+sg7
+Vnm0000859
+p2559
+sa(dp2560
+g4
+VThomas Mitchell
+p2561
+sg6
+I3383
+sg7
+Vnm0593775
+p2562
+sa(dp2563
+g4
+VHenry Travers
+p2564
+sg6
+I7666
+sg7
+Vnm0871287
+p2565
+sasVtt0041959
+p2566
+(lp2567
+(dp2568
+g4
+VJoseph Cotten
+p2569
+sg6
+I7664
+sg7
+Vnm0001072
+p2570
+sa(dp2571
+g4
+VAlida Valli
+p2572
+sg6
+I15385
+sg7
+Vnm0885098
+p2573
+sa(dp2574
+g4
+VOrson Welles
+p2575
+sg6
+I40
+sg7
+Vnm0000080
+p2576
+sa(dp2577
+g4
+VTrevor Howard
+p2578
+sg6
+I12726
+sg7
+Vnm0002145
+p2579
+sa(dp2580
+g4
+VBernard Lee
+p2581
+sg6
+I9874
+sg7
+Vnm0496866
+p2582
+sasVtt0457430
+p2583
+(lp2584
+(dp2585
+g4
+VIvana Baquero
+p2586
+sg6
+I16970
+sg7
+Vnm1419440
+p2587
+sa(dp2588
+g4
+VMaribel Verdú
+p2589
+sg6
+I16971
+sg7
+Vnm0893941
+p2590
+sa(dp2591
+g4
+VSergi López
+p2592
+sg6
+I16972
+sg7
+Vnm0530365
+p2593
+sa(dp2594
+g4
+VDoug Jones
+p2595
+sg6
+I17005
+sg7
+Vnm0427964
+p2596
+sa(dp2597
+g4
+VAriadna Gil
+p2598
+sg6
+I17006
+sg7
+Vnm0317725
+p2599
+sasVtt1345836
+p2600
+(lp2601
+(dp2602
+g4
+VChristian Bale
+p2603
+sg6
+I3894
+sg7
+Vnm0000288
+p2604
+sa(dp2605
+g4
+VMichael Caine
+p2606
+sg6
+I3895
+sg7
+Vnm0000323
+p2607
+sa(dp2608
+g4
+VGary Oldman
+p2609
+sg6
+I64
+sg7
+Vnm0000198
+p2610
+sa(dp2611
+g4
+VAnne Hathaway
+p2612
+sg6
+I1813
+sg7
+Vnm0004266
+p2613
+sa(dp2614
+g4
+VTom Hardy
+p2615
+sg6
+I2524
+sg7
+Vnm0362766
+p2616
+sasVtt0111495
+p2617
+(lp2618
+(dp2619
+g4
+VIrène Jacob
+p2620
+sg6
+I1350
+sg7
+Vnm0001393
+p2621
+sa(dp2622
+g4
+VJean-Louis Trintignant
+p2623
+sg6
+I1352
+sg7
+Vnm0004462
+p2624
+sa(dp2625
+g4
+VJean-Pierre Lorit
+p2626
+sg6
+I1356
+sg7
+Vnm0521051
+p2627
+sa(dp2628
+g4
+VFrédérique Feder
+p2629
+sg6
+I1354
+sg7
+Vnm0270073
+p2630
+sa(dp2631
+g4
+VSamuel Le Bihan
+p2632
+sg6
+I49025
+sg7
+Vnm0494078
+p2633
+sasVtt0058946
+p2634
+(lp2635
+(dp2636
+g4
+VBrahim Hadjadj
+p2637
+sg6
+I140996
+sg7
+g88
+sa(dp2638
+g4
+VJean Martin
+p2639
+sg6
+I39953
+sg7
+Vnm0552483
+p2640
+sa(dp2641
+g4
+VYacef Saadi
+p2642
+sg6
+I557864
+sg7
+g88
+sa(dp2643
+g4
+VUgo Paletti
+p2644
+sg6
+I557865
+sg7
+g88
+sa(dp2645
+g4
+VFusia El Kader
+p2646
+sg6
+I1055191
+sg7
+g88
+sasVtt0054215
+p2647
+(lp2648
+(dp2649
+g4
+VAnthony Perkins
+p2650
+sg6
+I7301
+sg7
+Vnm0000578
+p2651
+sa(dp2652
+g4
+VVera Miles
+p2653
+sg6
+I7303
+sg7
+Vnm0587256
+p2654
+sa(dp2655
+g4
+VJohn Gavin
+p2656
+sg6
+I7304
+sg7
+Vnm0001260
+p2657
+sa(dp2658
+g4
+VJanet Leigh
+p2659
+sg6
+I7302
+sg7
+Vnm0001463
+p2660
+sa(dp2661
+g4
+VMartin Balsam
+p2662
+sg6
+I1936
+sg7
+Vnm0000842
+p2663
+sasVtt0112471
+p2664
+(lp2665
+(dp2666
+g4
+VEthan Hawke
+p2667
+sg6
+I569
+sg7
+Vnm0000160
+p2668
+sa(dp2669
+g4
+VJulie Delpy
+p2670
+sg6
+I1146
+sg7
+Vnm0000365
+p2671
+sa(dp2672
+g4
+VAndrea Eckert
+p2673
+sg6
+I571
+sg7
+Vnm0248600
+p2674
+sa(dp2675
+g4
+VHanno Pöschl
+p2676
+sg6
+I572
+sg7
+Vnm0702541
+p2677
+sa(dp2678
+g4
+VKarl Bruckschwaiger
+p2679
+sg6
+I573
+sg7
+Vnm0115690
+p2680
+sasVtt0078788
+p2681
+(lp2682
+(dp2683
+g4
+VMartin Sheen
+p2684
+sg6
+I8349
+sg7
+Vnm0000640
+p2685
+sa(dp2686
+g4
+VMarlon Brando
+p2687
+sg6
+I3084
+sg7
+Vnm0000008
+p2688
+sa(dp2689
+g4
+VRobert Duvall
+p2690
+sg6
+I3087
+sg7
+Vnm0000380
+p2691
+sa(dp2692
+g4
+VLaurence Fishburne
+p2693
+sg6
+I2975
+sg7
+Vnm0000401
+p2694
+sa(dp2695
+g4
+VSam Bottoms
+p2696
+sg6
+I8350
+sg7
+Vnm0098734
+p2697
+sasVtt0367110
+p2698
+(lp2699
+(dp2700
+g4
+VShahrukh Khan
+p2701
+sg6
+I35742
+sg7
+Vnm0451321
+p2702
+sa(dp2703
+g4
+VGayatri Joshi
+p2704
+sg6
+I78750
+sg7
+Vnm1539666
+p2705
+sa(dp2706
+g4
+VKishori Balal
+p2707
+sg6
+I570200
+sg7
+g88
+sa(dp2708
+g4
+VSmith Seth
+p2709
+sg6
+I134712
+sg7
+Vnm0809914
+p2710
+sa(dp2711
+g4
+VLekh Tandon
+p2712
+sg6
+I1195016
+sg7
+g88
+sasVtt0082971
+p2713
+(lp2714
+(dp2715
+g4
+VHarrison Ford
+p2716
+sg6
+I3
+sg7
+Vnm0000148
+p2717
+sa(dp2718
+g4
+VKaren Allen
+p2719
+sg6
+I650
+sg7
+Vnm0000261
+p2720
+sa(dp2721
+g4
+VPaul Freeman
+p2722
+sg6
+I652
+sg7
+Vnm0293550
+p2723
+sa(dp2724
+g4
+VRonald Lacey
+p2725
+sg6
+I653
+sg7
+Vnm0479951
+p2726
+sa(dp2727
+g4
+VJohn Rhys-Davies
+p2728
+sg6
+I655
+sg7
+Vnm0722636
+p2729
+sasVtt0032553
+p2730
+(lp2731
+(dp2732
+g4
+VCharles Chaplin
+p2733
+sg6
+I13848
+sg7
+Vnm0000122
+p2734
+sa(dp2735
+g4
+VJack Oakie
+p2736
+sg6
+I14028
+sg7
+Vnm0642988
+p2737
+sa(dp2738
+g4
+VReginald Gardiner
+p2739
+sg6
+I14029
+sg7
+Vnm0306786
+p2740
+sa(dp2741
+g4
+VHenry Daniell
+p2742
+sg6
+I10924
+sg7
+Vnm0199787
+p2743
+sa(dp2744
+g4
+VBilly Gilbert
+p2745
+sg6
+I5464
+sg7
+Vnm0317970
+p2746
+sasVtt0044741
+p2747
+(lp2748
+(dp2749
+g4
+VTakashi Shimura
+p2750
+sg6
+I7453
+sg7
+Vnm0793766
+p2751
+sa(dp2752
+g4
+VHaruo Tanaka
+p2753
+sg6
+I34375
+sg7
+Vnm0848984
+p2754
+sa(dp2755
+g4
+VNobuo Kaneko
+p2756
+sg6
+I34376
+sg7
+Vnm0437520
+p2757
+sa(dp2758
+g4
+VBokuzen Hidari
+p2759
+sg6
+I34377
+sg7
+Vnm0383091
+p2760
+sa(dp2761
+g4
+VMiki Odagiri
+p2762
+sg6
+I34378
+sg7
+Vnm0643887
+p2763
+sasVtt0450259
+p2764
+(lp2765
+(dp2766
+g4
+VLeonardo DiCaprio
+p2767
+sg6
+I6193
+sg7
+Vnm0000138
+p2768
+sa(dp2769
+g4
+VDjimon Hounsou
+p2770
+sg6
+I938
+sg7
+Vnm0005023
+p2771
+sa(dp2772
+g4
+VJennifer Connelly
+p2773
+sg6
+I6161
+sg7
+Vnm0000124
+p2774
+sa(dp2775
+g4
+VKagiso Kuypers
+p2776
+sg6
+I16742
+sg7
+Vnm2218894
+p2777
+sa(dp2778
+g4
+VArnold Vosloo
+p2779
+sg6
+I16743
+sg7
+Vnm0903677
+p2780
+sasVtt0085334
+p2781
+(lp2782
+(dp2783
+g4
+VMelinda Dillon
+p2784
+sg6
+I4778
+sg7
+Vnm0227039
+p2785
+sa(dp2786
+g4
+VDarren McGavin
+p2787
+sg6
+I7333
+sg7
+Vnm0569000
+p2788
+sa(dp2789
+g4
+VPeter Billingsley
+p2790
+sg6
+I12708
+sg7
+Vnm0082526
+p2791
+sa(dp2792
+g4
+VIan Petrella
+p2793
+sg6
+I12709
+sg7
+Vnm0677826
+p2794
+sa(dp2795
+g4
+VScott Schwartz
+p2796
+sg6
+I12710
+sg7
+Vnm0777432
+p2797
+sasVtt1065073
+p2798
+(lp2799
+(dp2800
+g4
+VEllar Coltrane
+p2801
+sg6
+I931944
+sg7
+g88
+sa(dp2802
+g4
+VPatricia Arquette
+p2803
+sg6
+I4687
+sg7
+Vnm0000099
+p2804
+sa(dp2805
+g4
+VEthan Hawke
+p2806
+sg6
+I569
+sg7
+Vnm0000160
+p2807
+sa(dp2808
+g4
+VLorelei Linklater
+p2809
+sg6
+I1327009
+sg7
+g88
+sa(dp2810
+g4
+VTamara Jolaine
+p2811
+sg6
+I110990
+sg7
+Vnm1846817
+p2812
+sasVtt0040897
+p2813
+(lp2814
+(dp2815
+g4
+VHumphrey Bogart
+p2816
+sg6
+I4110
+sg7
+Vnm0000007
+p2817
+sa(dp2818
+g4
+VWalter Huston
+p2819
+sg6
+I19020
+sg7
+Vnm0404158
+p2820
+sa(dp2821
+g4
+VTim Holt
+p2822
+sg6
+I14517
+sg7
+Vnm0392529
+p2823
+sa(dp2824
+g4
+VBruce Bennett
+p2825
+sg6
+I30303
+sg7
+Vnm0071636
+p2826
+sa(dp2827
+g4
+VBarton MacLane
+p2828
+sg6
+I14451
+sg7
+Vnm0533692
+p2829
+sasVtt0062622
+p2830
+(lp2831
+(dp2832
+g4
+VKeir Dullea
+p2833
+sg6
+I245
+sg7
+Vnm0001158
+p2834
+sa(dp2835
+g4
+VDouglas Rain
+p2836
+sg6
+I253
+sg7
+Vnm0706937
+p2837
+sa(dp2838
+g4
+VGary Lockwood
+p2839
+sg6
+I246
+sg7
+Vnm0516972
+p2840
+sa(dp2841
+g4
+VWilliam Sylvester
+p2842
+sg6
+I247
+sg7
+Vnm0843213
+p2843
+sa(dp2844
+g4
+VDaniel Richter
+p2845
+sg6
+I248
+sg7
+Vnm0725220
+p2846
+sasVtt0167260
+p2847
+(lp2848
+(dp2849
+g4
+VElijah Wood
+p2850
+sg6
+I109
+sg7
+Vnm0000704
+p2851
+sa(dp2852
+g4
+VIan McKellen
+p2853
+sg6
+I1327
+sg7
+Vnm0005212
+p2854
+sa(dp2855
+g4
+VViggo Mortensen
+p2856
+sg6
+I110
+sg7
+Vnm0001557
+p2857
+sa(dp2858
+g4
+VLiv Tyler
+p2859
+sg6
+I882
+sg7
+Vnm0000239
+p2860
+sa(dp2861
+g4
+VOrlando Bloom
+p2862
+sg6
+I114
+sg7
+Vnm0089217
+p2863
+sasVtt1291584
+p2864
+(lp2865
+(dp2866
+g4
+VTom Hardy
+p2867
+sg6
+I2524
+sg7
+Vnm0362766
+p2868
+sa(dp2869
+g4
+VJennifer Morrison
+p2870
+sg6
+I41421
+sg7
+Vnm0607185
+p2871
+sa(dp2872
+g4
+VNick Nolte
+p2873
+sg6
+I1733
+sg7
+Vnm0000560
+p2874
+sa(dp2875
+g4
+VJoel Edgerton
+p2876
+sg6
+I33192
+sg7
+Vnm0249291
+p2877
+sa(dp2878
+g4
+VFrank Grillo
+p2879
+sg6
+I81685
+sg7
+Vnm0342029
+p2880
+sasVtt0095765
+p2881
+(lp2882
+(dp2883
+g4
+VPhilippe Noiret
+p2884
+sg6
+I24366
+sg7
+Vnm0634159
+p2885
+sa(dp2886
+g4
+VJacques Perrin
+p2887
+sg6
+I20030
+sg7
+g88
+sa(dp2888
+g4
+VMarco Leonardi
+p2889
+sg6
+I27643
+sg7
+g88
+sa(dp2890
+g4
+VSalvatore Cascio
+p2891
+sg6
+I68635
+sg7
+g88
+sa(dp2892
+g4
+VAgnese Nano
+p2893
+sg6
+I120152
+sg7
+Vnm0620919
+p2894
+sasVtt0061512
+p2895
+(lp2896
+(dp2897
+g4
+VPaul Newman
+p2898
+sg6
+I3636
+sg7
+Vnm0000056
+p2899
+sa(dp2900
+g4
+VGeorge Kennedy
+p2901
+sg6
+I12950
+sg7
+Vnm0001421
+p2902
+sa(dp2903
+g4
+VLuke Askew
+p2904
+sg6
+I8962
+sg7
+Vnm0039435
+p2905
+sa(dp2906
+g4
+VMorgan Woodward
+p2907
+sg6
+I13869
+sg7
+Vnm0940971
+p2908
+sa(dp2909
+g4
+VHarry Dean Stanton
+p2910
+sg6
+I5048
+sg7
+Vnm0001765
+p2911
+sasVtt0033870
+p2912
+(lp2913
+(dp2914
+g4
+VHumphrey Bogart
+p2915
+sg6
+I4110
+sg7
+Vnm0000007
+p2916
+sa(dp2917
+g4
+VMary Astor
+p2918
+sg6
+I13992
+sg7
+Vnm0000802
+p2919
+sa(dp2920
+g4
+VGladys George
+p2921
+sg6
+I14450
+sg7
+Vnm0313438
+p2922
+sa(dp2923
+g4
+VPeter Lorre
+p2924
+sg6
+I2094
+sg7
+Vnm0000048
+p2925
+sa(dp2926
+g4
+VBarton MacLane
+p2927
+sg6
+I14451
+sg7
+Vnm0533692
+p2928
+sasVtt0169102
+p2929
+(lp2930
+(dp2931
+g4
+VAamir Khan
+p2932
+sg6
+I52763
+sg7
+Vnm0451148
+p2933
+sa(dp2934
+g4
+VGracy Singh
+p2935
+sg6
+I85240
+sg7
+Vnm0961737
+p2936
+sa(dp2937
+g4
+VRachel Shelley
+p2938
+sg6
+I80385
+sg7
+Vnm0791226
+p2939
+sa(dp2940
+g4
+VPaul Blackthorne
+p2941
+sg6
+I43231
+sg7
+Vnm0085860
+p2942
+sa(dp2943
+g4
+VSuhasini Mulay
+p2944
+sg6
+I110708
+sg7
+Vnm0611663
+p2945
+sasVtt0017925
+p2946
+(lp2947
+(dp2948
+g4
+VBuster Keaton
+p2949
+sg6
+I8635
+sg7
+Vnm0000036
+p2950
+sa(dp2951
+g4
+VMarion Mack
+p2952
+sg6
+I14417
+sg7
+Vnm0533045
+p2953
+sa(dp2954
+g4
+VGlen Cavender
+p2955
+sg6
+I14419
+sg7
+Vnm0147070
+p2956
+sa(dp2957
+g4
+VJim Farley
+p2958
+sg6
+I14420
+sg7
+Vnm0267650
+p2959
+sa(dp2960
+g4
+VFrederick Vroom
+p2961
+sg6
+I14421
+sg7
+Vnm0904143
+p2962
+sasVtt0137523
+p2963
+(lp2964
+(dp2965
+g4
+VEdward Norton
+p2966
+sg6
+I819
+sg7
+Vnm0001570
+p2967
+sa(dp2968
+g4
+VBrad Pitt
+p2969
+sg6
+I287
+sg7
+Vnm0000093
+p2970
+sa(dp2971
+g4
+VHelena Bonham Carter
+p2972
+sg6
+I1283
+sg7
+Vnm0000307
+p2973
+sa(dp2974
+g4
+VMeat Loaf
+p2975
+sg6
+I7470
+sg7
+Vnm0001533
+p2976
+sa(dp2977
+g4
+VJared Leto
+p2978
+sg6
+I7499
+sg7
+Vnm0001467
+p2979
+sasVtt0405094
+p2980
+(lp2981
+(dp2982
+g4
+VMartina Gedeck
+p2983
+sg6
+I678
+sg7
+Vnm0311476
+p2984
+sa(dp2985
+g4
+VUlrich Mühe
+p2986
+sg6
+I8196
+sg7
+Vnm0618057
+p2987
+sa(dp2988
+g4
+VSebastian Koch
+p2989
+sg6
+I8197
+sg7
+Vnm0462407
+p2990
+sa(dp2991
+g4
+VUlrich Tukur
+p2992
+sg6
+I8198
+sg7
+Vnm0876300
+p2993
+sa(dp2994
+g4
+VThomas Thieme
+p2995
+sg6
+I8199
+sg7
+Vnm0857998
+p2996
+sasVtt1504320
+p2997
+(lp2998
+(dp2999
+g4
+VColin Firth
+p3000
+sg6
+I5472
+sg7
+Vnm0000147
+p3001
+sa(dp3002
+g4
+VGeoffrey Rush
+p3003
+sg6
+I118
+sg7
+Vnm0001691
+p3004
+sa(dp3005
+g4
+VHelena Bonham Carter
+p3006
+sg6
+I1283
+sg7
+Vnm0000307
+p3007
+sa(dp3008
+g4
+VGuy Pearce
+p3009
+sg6
+I529
+sg7
+Vnm0001602
+p3010
+sa(dp3011
+g4
+VTimothy Spall
+p3012
+sg6
+I9191
+sg7
+Vnm0001758
+p3013
+sasVtt0061722
+p3014
+(lp3015
+(dp3016
+g4
+VAnne Bancroft
+p3017
+sg6
+I10774
+sg7
+Vnm0000843
+p3018
+sa(dp3019
+g4
+VDustin Hoffman
+p3020
+sg6
+I4483
+sg7
+Vnm0000163
+p3021
+sa(dp3022
+g4
+VKatharine Ross
+p3023
+sg6
+I9594
+sg7
+Vnm0001684
+p3024
+sa(dp3025
+g4
+VMurray Hamilton
+p3026
+sg6
+I8608
+sg7
+Vnm0358069
+p3027
+sa(dp3028
+g4
+VBuck Henry
+p3029
+sg6
+I7795
+sg7
+Vnm0377750
+p3030
+sasVtt0055031
+p3031
+(lp3032
+(dp3033
+g4
+VSpencer Tracy
+p3034
+sg6
+I12147
+sg7
+Vnm0000075
+p3035
+sa(dp3036
+g4
+VBurt Lancaster
+p3037
+sg6
+I13784
+sg7
+Vnm0000044
+p3038
+sa(dp3039
+g4
+VRichard Widmark
+p3040
+sg6
+I12149
+sg7
+Vnm0001847
+p3041
+sa(dp3042
+g4
+VMarlene Dietrich
+p3043
+sg6
+I2896
+sg7
+Vnm0000017
+p3044
+sa(dp3045
+g4
+VMaximilian Schell
+p3046
+sg6
+I12150
+sg7
+Vnm0001703
+p3047
+sasVtt0084787
+p3048
+(lp3049
+(dp3050
+g4
+VKurt Russell
+p3051
+sg6
+I6856
+sg7
+Vnm0000621
+p3052
+sa(dp3053
+g4
+VWilford Brimley
+p3054
+sg6
+I11065
+sg7
+Vnm0000979
+p3055
+sa(dp3056
+g4
+VT. K. Carter
+p3057
+sg6
+I15411
+sg7
+Vnm0141953
+p3058
+sa(dp3059
+g4
+VDavid Clennon
+p3060
+sg6
+I15412
+sg7
+Vnm0166359
+p3061
+sa(dp3062
+g4
+VKeith David
+p3063
+sg6
+I65827
+sg7
+Vnm0202966
+p3064
+sasVtt0046359
+p3065
+(lp3066
+(dp3067
+g4
+VWilliam Holden
+p3068
+sg6
+I8252
+sg7
+Vnm0000034
+p3069
+sa(dp3070
+g4
+VDon Taylor
+p3071
+sg6
+I9108
+sg7
+Vnm0852279
+p3072
+sa(dp3073
+g4
+VOtto Preminger
+p3074
+sg6
+I834
+sg7
+Vnm0695937
+p3075
+sa(dp3076
+g4
+VRobert Strauss
+p3077
+sg6
+I7347
+sg7
+Vnm0833865
+p3078
+sa(dp3079
+g4
+VHarvey Lembeck
+p3080
+sg6
+I9109
+sg7
+Vnm0501183
+p3081
+sasVtt0087544
+p3082
+(lp3083
+(dp3084
+g4
+VSumi Shimamoto
+p3085
+sg6
+I613
+sg7
+Vnm0793585
+p3086
+sa(dp3087
+g4
+VMahito Tsujimura
+p3088
+sg6
+I614
+sg7
+Vnm0875332
+p3089
+sa(dp3090
+g4
+VHisako Ky\u014dda
+p3091
+sg6
+I615
+sg7
+Vnm0477449
+p3092
+sa(dp3093
+g4
+VGor\u014d Naya
+p3094
+sg6
+I616
+sg7
+Vnm0623214
+p3095
+sa(dp3096
+g4
+VIchir\u014d Nagai
+p3097
+sg6
+I617
+sg7
+Vnm0619077
+p3098
+sasVtt0113277
+p3099
+(lp3100
+(dp3101
+g4
+VAl Pacino
+p3102
+sg6
+I1158
+sg7
+Vnm0000199
+p3103
+sa(dp3104
+g4
+VRobert De Niro
+p3105
+sg6
+I380
+sg7
+Vnm0000134
+p3106
+sa(dp3107
+g4
+VVal Kilmer
+p3108
+sg6
+I5576
+sg7
+Vnm0000174
+p3109
+sa(dp3110
+g4
+VJon Voight
+p3111
+sg6
+I10127
+sg7
+Vnm0000685
+p3112
+sa(dp3113
+g4
+VTom Sizemore
+p3114
+sg6
+I3197
+sg7
+Vnm0001744
+p3115
+sasVtt0105695
+p3116
+(lp3117
+(dp3118
+g4
+VClint Eastwood
+p3119
+sg6
+I190
+sg7
+Vnm0000142
+p3120
+sa(dp3121
+g4
+VGene Hackman
+p3122
+sg6
+I193
+sg7
+Vnm0000432
+p3123
+sa(dp3124
+g4
+VMorgan Freeman
+p3125
+sg6
+I192
+sg7
+Vnm0000151
+p3126
+sa(dp3127
+g4
+VRichard Harris
+p3128
+sg6
+I194
+sg7
+Vnm0001321
+p3129
+sa(dp3130
+g4
+VJaimz Woolvett
+p3131
+sg6
+I3710
+sg7
+Vnm0941316
+p3132
+sasVtt0353969
+p3133
+(lp3134
+(dp3135
+g4
+VSong Kang-ho
+p3136
+sg6
+I20738
+sg7
+Vnm0814280
+p3137
+sa(dp3138
+g4
+VSang-kyung Kim
+p3139
+sg6
+I69378
+sg7
+Vnm1235292
+p3140
+sa(dp3141
+g4
+VKim Roe-Ha
+p3142
+sg6
+I69379
+sg7
+Vnm1323287
+p3143
+sa(dp3144
+g4
+VJae-ho Song
+p3145
+sg6
+I1080904
+sg7
+g88
+sa(dp3146
+g4
+VPark Hae-Il
+p3147
+sg6
+I21687
+sg7
+Vnm1310960
+p3148
+sasVtt1853728
+p3149
+(lp3150
+(dp3151
+g4
+VJamie Foxx
+p3152
+sg6
+I134
+sg7
+Vnm0004937
+p3153
+sa(dp3154
+g4
+VChristoph Waltz
+p3155
+sg6
+I27319
+sg7
+Vnm0910607
+p3156
+sa(dp3157
+g4
+VLeonardo DiCaprio
+p3158
+sg6
+I6193
+sg7
+Vnm0000138
+p3159
+sa(dp3160
+g4
+VKerry Washington
+p3161
+sg6
+I11703
+sg7
+Vnm0913488
+p3162
+sa(dp3163
+g4
+VSamuel L. Jackson
+p3164
+sg6
+I2231
+sg7
+Vnm0000168
+p3165
+sasVtt0034583
+p3166
+(lp3167
+(dp3168
+g4
+VHumphrey Bogart
+p3169
+sg6
+I4110
+sg7
+Vnm0000007
+p3170
+sa(dp3171
+g4
+VIngrid Bergman
+p3172
+sg6
+I4111
+sg7
+Vnm0000006
+p3173
+sa(dp3174
+g4
+VPaul Henreid
+p3175
+sg6
+I4112
+sg7
+Vnm0002134
+p3176
+sa(dp3177
+g4
+VClaude Rains
+p3178
+sg6
+I4113
+sg7
+Vnm0001647
+p3179
+sa(dp3180
+g4
+VConrad Veidt
+p3181
+sg6
+I3001
+sg7
+Vnm0891998
+p3182
+sasVtt0758758
+p3183
+(lp3184
+(dp3185
+g4
+VEmile Hirsch
+p3186
+sg6
+I46593
+sg7
+Vnm0386472
+p3187
+sa(dp3188
+g4
+VMarcia Gay Harden
+p3189
+sg6
+I4726
+sg7
+Vnm0001315
+p3190
+sa(dp3191
+g4
+VWilliam Hurt
+p3192
+sg6
+I227
+sg7
+Vnm0000458
+p3193
+sa(dp3194
+g4
+VJena Malone
+p3195
+sg6
+I20089
+sg7
+Vnm0540441
+p3196
+sa(dp3197
+g4
+VBrian H. Dierker
+p3198
+sg6
+I46594
+sg7
+Vnm1619626
+p3199
+sasVtt0110912
+p3200
+(lp3201
+(dp3202
+g4
+VTim Roth
+p3203
+sg6
+I3129
+sg7
+Vnm0000619
+p3204
+sa(dp3205
+g4
+VAmanda Plummer
+p3206
+sg6
+I99
+sg7
+Vnm0001625
+p3207
+sa(dp3208
+g4
+VLaura Lovelace
+p3209
+sg6
+I11807
+sg7
+Vnm0522503
+p3210
+sa(dp3211
+g4
+VJohn Travolta
+p3212
+sg6
+I8891
+sg7
+Vnm0000237
+p3213
+sa(dp3214
+g4
+VSamuel L. Jackson
+p3215
+sg6
+I2231
+sg7
+Vnm0000168
+p3216
+sasVtt0086879
+p3217
+(lp3218
+(dp3219
+g4
+VF. Murray Abraham
+p3220
+sg6
+I1164
+sg7
+Vnm0000719
+p3221
+sa(dp3222
+g4
+VTom Hulce
+p3223
+sg6
+I3999
+sg7
+Vnm0001371
+p3224
+sa(dp3225
+g4
+VElizabeth Berridge
+p3226
+sg6
+I4000
+sg7
+Vnm0000931
+p3227
+sa(dp3228
+g4
+VRoy Dotrice
+p3229
+sg6
+I4002
+sg7
+Vnm0234541
+p3230
+sa(dp3231
+g4
+VSimon Callow
+p3232
+sg6
+I4001
+sg7
+Vnm0001003
+p3233
+sasVtt0082096
+p3234
+(lp3235
+(dp3236
+g4
+VJürgen Prochnow
+p3237
+sg6
+I920
+sg7
+Vnm0001638
+p3238
+sa(dp3239
+g4
+VHerbert Grönemeyer
+p3240
+sg6
+I5228
+sg7
+Vnm0344963
+p3241
+sa(dp3242
+g4
+VKlaus Wennemann
+p3243
+sg6
+I5229
+sg7
+Vnm0921044
+p3244
+sa(dp3245
+g4
+VHubertus Bengsch
+p3246
+sg6
+I5230
+sg7
+Vnm0071059
+p3247
+sa(dp3248
+g4
+VMartin Semmelrogge
+p3249
+sg6
+I4924
+sg7
+Vnm0783847
+p3250
+sasVtt0434409
+p3251
+(lp3252
+(dp3253
+g4
+VNatalie Portman
+p3254
+sg6
+I524
+sg7
+Vnm0000204
+p3255
+sa(dp3256
+g4
+VHugo Weaving
+p3257
+sg6
+I1331
+sg7
+Vnm0915989
+p3258
+sa(dp3259
+g4
+VStephen Rea
+p3260
+sg6
+I9029
+sg7
+Vnm0001653
+p3261
+sa(dp3262
+g4
+VStephen Fry
+p3263
+sg6
+I11275
+sg7
+Vnm0000410
+p3264
+sa(dp3265
+g4
+VJohn Hurt
+p3266
+sg6
+I5049
+sg7
+Vnm0000457
+p3267
+sasVtt0068646
+p3268
+(lp3269
+(dp3270
+g4
+VMarlon Brando
+p3271
+sg6
+I3084
+sg7
+Vnm0000008
+p3272
+sa(dp3273
+g4
+VAl Pacino
+p3274
+sg6
+I1158
+sg7
+Vnm0000199
+p3275
+sa(dp3276
+g4
+VJames Caan
+p3277
+sg6
+I3085
+sg7
+Vnm0001001
+p3278
+sa(dp3279
+g4
+VRichard S. Castellano
+p3280
+sg6
+I3086
+sg7
+Vnm0144710
+p3281
+sa(dp3282
+g4
+VRobert Duvall
+p3283
+sg6
+I3087
+sg7
+Vnm0000380
+p3284
+sasVtt0117951
+p3285
+(lp3286
+(dp3287
+g4
+VEwan McGregor
+p3288
+sg6
+I3061
+sg7
+Vnm0000191
+p3289
+sa(dp3290
+g4
+VEwen Bremner
+p3291
+sg6
+I1125
+sg7
+Vnm0001971
+p3292
+sa(dp3293
+g4
+VJonny Lee Miller
+p3294
+sg6
+I9012
+sg7
+Vnm0001538
+p3295
+sa(dp3296
+g4
+VRobert Carlyle
+p3297
+sg6
+I18023
+sg7
+Vnm0001015
+p3298
+sa(dp3299
+g4
+VKelly Macdonald
+p3300
+sg6
+I9015
+sg7
+Vnm0531808
+p3301
+sasVtt0077416
+p3302
+(lp3303
+(dp3304
+g4
+VRobert De Niro
+p3305
+sg6
+I380
+sg7
+Vnm0000134
+p3306
+sa(dp3307
+g4
+VJohn Cazale
+p3308
+sg6
+I3096
+sg7
+Vnm0001030
+p3309
+sa(dp3310
+g4
+VJohn Savage
+p3311
+sg6
+I47879
+sg7
+Vnm0001698
+p3312
+sa(dp3313
+g4
+VChristopher Walken
+p3314
+sg6
+I4690
+sg7
+Vnm0000686
+p3315
+sa(dp3316
+g4
+VMeryl Streep
+p3317
+sg6
+I5064
+sg7
+Vnm0000658
+p3318
+sasVtt1675434
+p3319
+(lp3320
+(dp3321
+g4
+VFrançois Cluzet
+p3322
+sg6
+I33161
+sg7
+Vnm0167388
+p3323
+sa(dp3324
+g4
+VOmar Sy
+p3325
+sg6
+I78423
+sg7
+Vnm1082477
+p3326
+sa(dp3327
+g4
+VAnne Le Ny
+p3328
+sg6
+I19370
+sg7
+Vnm0494504
+p3329
+sa(dp3330
+g4
+VAudrey Fleurot
+p3331
+sg6
+I219708
+sg7
+Vnm1109153
+p3332
+sa(dp3333
+g4
+VClotilde Mollet
+p3334
+sg6
+I2411
+sg7
+Vnm0597042
+p3335
+sasVtt0027977
+p3336
+(lp3337
+(dp3338
+g4
+VCharles Chaplin
+p3339
+sg6
+I13848
+sg7
+Vnm0000122
+p3340
+sa(dp3341
+g4
+VPaulette Goddard
+p3342
+sg6
+I14027
+sg7
+Vnm0002104
+p3343
+sa(dp3344
+g4
+VHenry Bergman
+p3345
+sg6
+I14438
+sg7
+Vnm0074788
+p3346
+sa(dp3347
+g4
+VTiny Sandford
+p3348
+sg6
+I30194
+sg7
+Vnm0761866
+p3349
+sa(dp3350
+g4
+VChester Conklin
+p3351
+sg6
+I30195
+sg7
+Vnm0174682
+p3352
+sasVtt0338013
+p3353
+(lp3354
+(dp3355
+g4
+VJim Carrey
+p3356
+sg6
+I206
+sg7
+Vnm0000120
+p3357
+sa(dp3358
+g4
+VKate Winslet
+p3359
+sg6
+I204
+sg7
+Vnm0000701
+p3360
+sa(dp3361
+g4
+VElijah Wood
+p3362
+sg6
+I109
+sg7
+Vnm0000704
+p3363
+sa(dp3364
+g4
+VMark Ruffalo
+p3365
+sg6
+I103
+sg7
+Vnm0749263
+p3366
+sa(dp3367
+g4
+VKirsten Dunst
+p3368
+sg6
+I205
+sg7
+Vnm0000379
+p3369
+sasVtt2278388
+p3370
+(lp3371
+(dp3372
+g4
+VRalph Fiennes
+p3373
+sg6
+I5469
+sg7
+Vnm0000146
+p3374
+sa(dp3375
+g4
+VTony Revolori
+p3376
+sg6
+I1291350
+sg7
+Vnm1727825
+p3377
+sa(dp3378
+g4
+VF. Murray Abraham
+p3379
+sg6
+I1164
+sg7
+Vnm0000719
+p3380
+sa(dp3381
+g4
+VMathieu Amalric
+p3382
+sg6
+I8789
+sg7
+Vnm0023832
+p3383
+sa(dp3384
+g4
+VAdrien Brody
+p3385
+sg6
+I3490
+sg7
+Vnm0004778
+p3386
+sasVtt1454029
+p3387
+(lp3388
+(dp3389
+g4
+VEmma Stone
+p3390
+sg6
+I54693
+sg7
+Vnm1297015
+p3391
+sa(dp3392
+g4
+VViola Davis
+p3393
+sg6
+I19492
+sg7
+Vnm0205626
+p3394
+sa(dp3395
+g4
+VOctavia Spencer
+p3396
+sg6
+I6944
+sg7
+Vnm0818055
+p3397
+sa(dp3398
+g4
+VBryce Dallas Howard
+p3399
+sg6
+I18997
+sg7
+Vnm0397171
+p3400
+sa(dp3401
+g4
+VJessica Chastain
+p3402
+sg6
+I83002
+sg7
+Vnm1567113
+p3403
+sasVtt0099685
+p3404
+(lp3405
+(dp3406
+g4
+VRobert De Niro
+p3407
+sg6
+I380
+sg7
+Vnm0000134
+p3408
+sa(dp3409
+g4
+VRay Liotta
+p3410
+sg6
+I11477
+sg7
+Vnm0000501
+p3411
+sa(dp3412
+g4
+VJoe Pesci
+p3413
+sg6
+I4517
+sg7
+Vnm0000582
+p3414
+sa(dp3415
+g4
+VLorraine Bracco
+p3416
+sg6
+I11478
+sg7
+Vnm0000966
+p3417
+sa(dp3418
+g4
+VPaul Sorvino
+p3419
+sg6
+I7004
+sg7
+Vnm0000649
+p3420
+sasVtt0154420
+p3421
+(lp3422
+(dp3423
+g4
+VUlrich Thomsen
+p3424
+sg6
+I4455
+sg7
+Vnm0860947
+p3425
+sa(dp3426
+g4
+VHenning Moritzen
+p3427
+sg6
+I4456
+sg7
+Vnm0605786
+p3428
+sa(dp3429
+g4
+VThomas Bo Larsen
+p3430
+sg6
+I4457
+sg7
+Vnm0488917
+p3431
+sa(dp3432
+g4
+VPaprika Steen
+p3433
+sg6
+I4458
+sg7
+Vnm0824785
+p3434
+sa(dp3435
+g4
+VBirthe Neumann
+p3436
+sg6
+I4459
+sg7
+Vnm0627023
+p3437
+sasVtt0405159
+p3438
+(lp3439
+(dp3440
+g4
+VClint Eastwood
+p3441
+sg6
+I190
+sg7
+Vnm0000142
+p3442
+sa(dp3443
+g4
+VHilary Swank
+p3444
+sg6
+I448
+sg7
+Vnm0005476
+p3445
+sa(dp3446
+g4
+VMorgan Freeman
+p3447
+sg6
+I192
+sg7
+Vnm0000151
+p3448
+sa(dp3449
+g4
+VJay Baruchel
+p3450
+sg6
+I449
+sg7
+Vnm0059431
+p3451
+sa(dp3452
+g4
+VMike Colter
+p3453
+sg6
+I450
+sg7
+Vnm1591496
+p3454
+sasVtt0012349
+p3455
+(lp3456
+(dp3457
+g4
+VCharles Chaplin
+p3458
+sg6
+I13848
+sg7
+Vnm0000122
+p3459
+sa(dp3460
+g4
+VJackie Coogan
+p3461
+sg6
+I19426
+sg7
+Vnm0001067
+p3462
+sa(dp3463
+g4
+VEdna Purviance
+p3464
+sg6
+I21301
+sg7
+Vnm0701012
+p3465
+sa(dp3466
+g4
+VAlbert Austin
+p3467
+sg6
+I21306
+sg7
+Vnm0042317
+p3468
+sa(dp3469
+g4
+VBeulah Bains
+p3470
+sg6
+I63380
+sg7
+Vnm0047800
+p3471
+sasVtt0050083
+p3472
+(lp3473
+(dp3474
+g4
+VHenry Fonda
+p3475
+sg6
+I4958
+sg7
+Vnm0000020
+p3476
+sa(dp3477
+g4
+VLee J. Cobb
+p3478
+sg6
+I5248
+sg7
+Vnm0002011
+p3479
+sa(dp3480
+g4
+VEd Begley
+p3481
+sg6
+I39816
+sg7
+Vnm0003225
+p3482
+sa(dp3483
+g4
+VE.G. Marshall
+p3484
+sg6
+I5249
+sg7
+Vnm0550855
+p3485
+sa(dp3486
+g4
+VJack Warden
+p3487
+sg6
+I5251
+sg7
+Vnm0912001
+p3488
+sasVtt0112641
+p3489
+(lp3490
+(dp3491
+g4
+VRobert De Niro
+p3492
+sg6
+I380
+sg7
+Vnm0000134
+p3493
+sa(dp3494
+g4
+VSharon Stone
+p3495
+sg6
+I4430
+sg7
+Vnm0000232
+p3496
+sa(dp3497
+g4
+VJoe Pesci
+p3498
+sg6
+I4517
+sg7
+Vnm0000582
+p3499
+sa(dp3500
+g4
+VJames Woods
+p3501
+sg6
+I4512
+sg7
+Vnm0000249
+p3502
+sa(dp3503
+g4
+VDon Rickles
+p3504
+sg6
+I7167
+sg7
+Vnm0725543
+p3505
+sasVtt0050976
+p3506
+(lp3507
+(dp3508
+g4
+VMax von Sydow
+p3509
+sg6
+I2201
+sg7
+Vnm0001884
+p3510
+sa(dp3511
+g4
+VGunnar Björnstrand
+p3512
+sg6
+I6649
+sg7
+Vnm0085038
+p3513
+sa(dp3514
+g4
+VBengt Ekerot
+p3515
+sg6
+I6656
+sg7
+Vnm0252345
+p3516
+sa(dp3517
+g4
+VNils Poppe
+p3518
+sg6
+I6658
+sg7
+Vnm0691555
+p3519
+sa(dp3520
+g4
+VBibi Andersson
+p3521
+sg6
+I6657
+sg7
+Vnm0000761
+p3522
+sasVtt0092005
+p3523
+(lp3524
+(dp3525
+g4
+VWil Wheaton
+p3526
+sg6
+I3033
+sg7
+Vnm0000696
+p3527
+sa(dp3528
+g4
+VRiver Phoenix
+p3529
+sg6
+I741
+sg7
+Vnm0000203
+p3530
+sa(dp3531
+g4
+VCorey Feldman
+p3532
+sg6
+I3034
+sg7
+Vnm0000397
+p3533
+sa(dp3534
+g4
+VJerry O'Connell
+p3535
+sg6
+I3035
+sg7
+Vnm0005278
+p3536
+sa(dp3537
+g4
+VKiefer Sutherland
+p3538
+sg6
+I2628
+sg7
+Vnm0000662
+p3539
+sasVtt0017136
+p3540
+(lp3541
+(dp3542
+g4
+VBrigitte Helm
+p3543
+sg6
+I75
+sg7
+Vnm0375609
+p3544
+sa(dp3545
+g4
+VAlfred Abel
+p3546
+sg6
+I73
+sg7
+Vnm0002154
+p3547
+sa(dp3548
+g4
+VGustav Fröhlich
+p3549
+sg6
+I74
+sg7
+Vnm0297054
+p3550
+sa(dp3551
+g4
+VRudolf Klein-Rogge
+p3552
+sg6
+I77
+sg7
+Vnm0459030
+p3553
+sa(dp3554
+g4
+VFritz Rasp
+p3555
+sg6
+I78
+sg7
+Vnm0003248
+p3556
+sasVtt0070511
+p3557
+(lp3558
+(dp3559
+g4
+VSteve McQueen
+p3560
+sg6
+I13565
+sg7
+Vnm0000537
+p3561
+sa(dp3562
+g4
+VDustin Hoffman
+p3563
+sg6
+I4483
+sg7
+Vnm0000163
+p3564
+sa(dp3565
+g4
+VWoodrow Parfrey
+p3566
+sg6
+I13263
+sg7
+Vnm0661416
+p3567
+sa(dp3568
+g4
+VRobert Deman
+p3569
+sg6
+I49356
+sg7
+Vnm0218053
+p3570
+sa(dp3571
+g4
+VAnthony Zerbe
+p3572
+sg6
+I2516
+sg7
+Vnm0001875
+p3573
+sasVtt0080678
+p3574
+(lp3575
+(dp3576
+g4
+VJohn Hurt
+p3577
+sg6
+I5049
+sg7
+Vnm0000457
+p3578
+sa(dp3579
+g4
+VAnthony Hopkins
+p3580
+sg6
+I4173
+sg7
+Vnm0000164
+p3581
+sa(dp3582
+g4
+VAnne Bancroft
+p3583
+sg6
+I10774
+sg7
+Vnm0000843
+p3584
+sa(dp3585
+g4
+VJohn Gielgud
+p3586
+sg6
+I11857
+sg7
+Vnm0000024
+p3587
+sa(dp3588
+g4
+VWendy Hiller
+p3589
+sg6
+I13325
+sg7
+Vnm0384908
+p3590
+sasVtt0040522
+p3591
+(lp3592
+(dp3593
+g4
+VLamberto Maggiorani
+p3594
+sg6
+I42416
+sg7
+Vnm0536009
+p3595
+sa(dp3596
+g4
+VEnzo Staiola
+p3597
+sg6
+I42417
+sg7
+Vnm0821543
+p3598
+sa(dp3599
+g4
+VLianella Carell
+p3600
+sg6
+I42419
+sg7
+Vnm0136794
+p3601
+sa(dp3602
+g4
+VCarlo Jachino
+p3603
+sg6
+I42421
+sg7
+Vnm0413063
+p3604
+sa(dp3605
+g4
+VGiulio Chiari
+p3606
+sg6
+I42423
+sg7
+Vnm0157058
+p3607
+sasVtt0071562
+p3608
+(lp3609
+(dp3610
+g4
+VAl Pacino
+p3611
+sg6
+I1158
+sg7
+Vnm0000199
+p3612
+sa(dp3613
+g4
+VRobert Duvall
+p3614
+sg6
+I3087
+sg7
+Vnm0000380
+p3615
+sa(dp3616
+g4
+VDiane Keaton
+p3617
+sg6
+I3092
+sg7
+Vnm0000473
+p3618
+sa(dp3619
+g4
+VRobert De Niro
+p3620
+sg6
+I380
+sg7
+Vnm0000134
+p3621
+sa(dp3622
+g4
+VJohn Cazale
+p3623
+sg6
+I3096
+sg7
+Vnm0001030
+p3624
+sasVtt0118715
+p3625
+(lp3626
+(dp3627
+g4
+VJeff Bridges
+p3628
+sg6
+I1229
+sg7
+Vnm0000313
+p3629
+sa(dp3630
+g4
+VJohn Goodman
+p3631
+sg6
+I1230
+sg7
+Vnm0000422
+p3632
+sa(dp3633
+g4
+VSteve Buscemi
+p3634
+sg6
+I884
+sg7
+Vnm0000114
+p3635
+sa(dp3636
+g4
+VJulianne Moore
+p3637
+sg6
+I1231
+sg7
+Vnm0000194
+p3638
+sa(dp3639
+g4
+VDavid Huddleston
+p3640
+sg6
+I1232
+sg7
+Vnm0399663
+p3641
+sasVtt0052311
+p3642
+(lp3643
+(dp3644
+g4
+VCharlton Heston
+p3645
+sg6
+I10017
+sg7
+Vnm0000032
+p3646
+sa(dp3647
+g4
+VJanet Leigh
+p3648
+sg6
+I7302
+sg7
+Vnm0001463
+p3649
+sa(dp3650
+g4
+VOrson Welles
+p3651
+sg6
+I40
+sg7
+Vnm0000080
+p3652
+sa(dp3653
+g4
+VJoseph Calleia
+p3654
+sg6
+I33747
+sg7
+Vnm0130407
+p3655
+sa(dp3656
+g4
+VAkim Tamiroff
+p3657
+sg6
+I30719
+sg7
+Vnm0848667
+p3658
+sasVtt0116282
+p3659
+(lp3660
+(dp3661
+g4
+VWilliam H. Macy
+p3662
+sg6
+I3905
+sg7
+Vnm0000513
+p3663
+sa(dp3664
+g4
+VFrances McDormand
+p3665
+sg6
+I3910
+sg7
+Vnm0000531
+p3666
+sa(dp3667
+g4
+VSteve Buscemi
+p3668
+sg6
+I884
+sg7
+Vnm0000114
+p3669
+sa(dp3670
+g4
+VPeter Stormare
+p3671
+sg6
+I53
+sg7
+Vnm0001780
+p3672
+sa(dp3673
+g4
+VKristin Rudrüd
+p3674
+sg6
+I3906
+sg7
+Vnm0749021
+p3675
+sasVtt0101414
+p3676
+(lp3677
+(dp3678
+g4
+VPaige O'Hara
+p3679
+sg6
+I62050
+sg7
+Vnm0641314
+p3680
+sa(dp3681
+g4
+VRobby Benson
+p3682
+sg6
+I15048
+sg7
+Vnm0000913
+p3683
+sa(dp3684
+g4
+VRichard White
+p3685
+sg6
+I108055
+sg7
+Vnm0925369
+p3686
+sa(dp3687
+g4
+VJerry Orbach
+p3688
+sg6
+I725
+sg7
+Vnm0001583
+p3689
+sa(dp3690
+g4
+VDavid Ogden Stiers
+p3691
+sg6
+I28010
+sg7
+Vnm0001773
+p3692
+sasVtt0469494
+p3693
+(lp3694
+(dp3695
+g4
+VDaniel Day-Lewis
+p3696
+sg6
+I11856
+sg7
+Vnm0000358
+p3697
+sa(dp3698
+g4
+VPaul Dano
+p3699
+sg6
+I17142
+sg7
+Vnm0200452
+p3700
+sa(dp3701
+g4
+VDillon Freasier
+p3702
+sg6
+I52564
+sg7
+Vnm2827673
+p3703
+sa(dp3704
+g4
+VCiarán Hinds
+p3705
+sg6
+I8785
+sg7
+Vnm0001354
+p3706
+sa(dp3707
+g4
+VKevin J. O'Connor
+p3708
+sg6
+I18916
+sg7
+Vnm0640413
+p3709
+sasVtt0079944
+p3710
+(lp3711
+(dp3712
+g4
+VAleksandr Kaydanovskiy
+p3713
+sg6
+I28078
+sg7
+Vnm0435289
+p3714
+sa(dp3715
+g4
+VAnatoliy Solonitsyn
+p3716
+sg6
+I8475
+sg7
+Vnm0813463
+p3717
+sa(dp3718
+g4
+VNikolay Grinko
+p3719
+sg6
+I1190992
+sg7
+Vnm0342458
+p3720
+sa(dp3721
+g4
+VAlisa Freyndlikh
+p3722
+sg6
+I28079
+sg7
+Vnm0293981
+p3723
+sa(dp3724
+g4
+VNatasha Abramova
+p3725
+sg6
+I28080
+sg7
+Vnm0009125
+p3726
+sasVtt0060827
+p3727
+(lp3728
+(dp3729
+g4
+VBibi Andersson
+p3730
+sg6
+I6657
+sg7
+Vnm0000761
+p3731
+sa(dp3732
+g4
+VLiv Ullmann
+p3733
+sg6
+I11916
+sg7
+Vnm0880521
+p3734
+sa(dp3735
+g4
+VMargaretha Krook
+p3736
+sg6
+I11917
+sg7
+Vnm0472234
+p3737
+sa(dp3738
+g4
+VGunnar Björnstrand
+p3739
+sg6
+I6649
+sg7
+Vnm0085038
+p3740
+sa(dp3741
+g4
+VJörgen Lindström
+p3742
+sg6
+I11918
+sg7
+Vnm0512502
+p3743
+sasVtt0053604
+p3744
+(lp3745
+(dp3746
+g4
+VJack Lemmon
+p3747
+sg6
+I3151
+sg7
+Vnm0000493
+p3748
+sa(dp3749
+g4
+VShirley MacLaine
+p3750
+sg6
+I4090
+sg7
+Vnm0000511
+p3751
+sa(dp3752
+g4
+VFred MacMurray
+p3753
+sg6
+I4091
+sg7
+Vnm0534045
+p3754
+sa(dp3755
+g4
+VRay Walston
+p3756
+sg6
+I4093
+sg7
+Vnm0001827
+p3757
+sa(dp3758
+g4
+VJack Kruschen
+p3759
+sg6
+I4094
+sg7
+Vnm0472816
+p3760
+sasVtt0109830
+p3761
+(lp3762
+(dp3763
+g4
+VTom Hanks
+p3764
+sg6
+I31
+sg7
+Vnm0000158
+p3765
+sa(dp3766
+g4
+VSally Field
+p3767
+sg6
+I35
+sg7
+Vnm0000398
+p3768
+sa(dp3769
+g4
+VRobin Wright
+p3770
+sg6
+I32
+sg7
+Vnm0000705
+p3771
+sa(dp3772
+g4
+VMykelti Williamson
+p3773
+sg6
+I34
+sg7
+Vnm0932112
+p3774
+sa(dp3775
+g4
+VGary Sinise
+p3776
+sg6
+I33
+sg7
+Vnm0000641
+p3777
+sasVtt0046250
+p3778
+(lp3779
+(dp3780
+g4
+VGregory Peck
+p3781
+sg6
+I8487
+sg7
+Vnm0000060
+p3782
+sa(dp3783
+g4
+VAudrey Hepburn
+p3784
+sg6
+I1932
+sg7
+Vnm0000030
+p3785
+sa(dp3786
+g4
+VEddie Albert
+p3787
+sg6
+I11998
+sg7
+Vnm0000734
+p3788
+sa(dp3789
+g4
+VHartley Power
+p3790
+sg6
+I11999
+sg7
+Vnm0694403
+p3791
+sa(dp3792
+g4
+VHarcourt Williams
+p3793
+sg6
+I12000
+sg7
+Vnm0930732
+p3794
+sasVtt0112573
+p3795
+(lp3796
+(dp3797
+g4
+VMel Gibson
+p3798
+sg6
+I2461
+sg7
+Vnm0000154
+p3799
+sa(dp3800
+g4
+VCatherine McCormack
+p3801
+sg6
+I2462
+sg7
+Vnm0001517
+p3802
+sa(dp3803
+g4
+VSophie Marceau
+p3804
+sg6
+I1957
+sg7
+Vnm0000521
+p3805
+sa(dp3806
+g4
+VPatrick McGoohan
+p3807
+sg6
+I2463
+sg7
+Vnm0001526
+p3808
+sa(dp3809
+g4
+VAngus Macfadyen
+p3810
+sg6
+I2464
+sg7
+Vnm0005171
+p3811
+sasVtt0169547
+p3812
+(lp3813
+(dp3814
+g4
+VKevin Spacey
+p3815
+sg6
+I1979
+sg7
+Vnm0000228
+p3816
+sa(dp3817
+g4
+VAnnette Bening
+p3818
+sg6
+I516
+sg7
+Vnm0000906
+p3819
+sa(dp3820
+g4
+VThora Birch
+p3821
+sg6
+I2155
+sg7
+Vnm0000301
+p3822
+sa(dp3823
+g4
+VWes Bentley
+p3824
+sg6
+I8210
+sg7
+Vnm0004747
+p3825
+sa(dp3826
+g4
+VMena Suvari
+p3827
+sg6
+I8211
+sg7
+Vnm0002546
+p3828
+sasVtt0051201
+p3829
+(lp3830
+(dp3831
+g4
+VTyrone Power
+p3832
+sg6
+I10922
+sg7
+Vnm0000061
+p3833
+sa(dp3834
+g4
+VMarlene Dietrich
+p3835
+sg6
+I2896
+sg7
+Vnm0000017
+p3836
+sa(dp3837
+g4
+VCharles Laughton
+p3838
+sg6
+I10921
+sg7
+Vnm0001452
+p3839
+sa(dp3840
+g4
+VElsa Lanchester
+p3841
+sg6
+I2926
+sg7
+Vnm0006471
+p3842
+sa(dp3843
+g4
+VJohn Williams
+p3844
+sg6
+I491
+sg7
+Vnm0002354
+p3845
+sasVtt0032976
+p3846
+(lp3847
+(dp3848
+g4
+VLaurence Olivier
+p3849
+sg6
+I3359
+sg7
+Vnm0000059
+p3850
+sa(dp3851
+g4
+VJoan Fontaine
+p3852
+sg6
+I3360
+sg7
+Vnm0000021
+p3853
+sa(dp3854
+g4
+VGeorge Sanders
+p3855
+sg6
+I3361
+sg7
+Vnm0001695
+p3856
+sa(dp3857
+g4
+VJudith Anderson
+p3858
+sg6
+I3362
+sg7
+Vnm0000752
+p3859
+sa(dp3860
+g4
+VNigel Bruce
+p3861
+sg6
+I3363
+sg7
+Vnm0115558
+p3862
+sasVtt0050986
+p3863
+(lp3864
+(dp3865
+g4
+VVictor Sjöström
+p3866
+sg6
+I8741
+sg7
+Vnm0803705
+p3867
+sa(dp3868
+g4
+VBibi Andersson
+p3869
+sg6
+I6657
+sg7
+Vnm0000761
+p3870
+sa(dp3871
+g4
+VIngrid Thulin
+p3872
+sg6
+I8742
+sg7
+g88
+sa(dp3873
+g4
+VGunnar Björnstrand
+p3874
+sg6
+I6649
+sg7
+Vnm0085038
+p3875
+sa(dp3876
+g4
+VJullan Kindahl
+p3877
+sg6
+I8743
+sg7
+Vnm0454247
+p3878
+sasVtt0059578
+p3879
+(lp3880
+(dp3881
+g4
+VClint Eastwood
+p3882
+sg6
+I190
+sg7
+Vnm0000142
+p3883
+sa(dp3884
+g4
+VLee Van Cleef
+p3885
+sg6
+I4078
+sg7
+Vnm0001812
+p3886
+sa(dp3887
+g4
+VGian Maria Volonté
+p3888
+sg6
+I14276
+sg7
+Vnm0002231
+p3889
+sa(dp3890
+g4
+VKlaus Kinski
+p3891
+sg6
+I14277
+sg7
+Vnm0001428
+p3892
+sa(dp3893
+g4
+VMara Krupp
+p3894
+sg6
+I14278
+sg7
+Vnm0472756
+p3895
+sasVtt0088247
+p3896
+(lp3897
+(dp3898
+g4
+VArnold Schwarzenegger
+p3899
+sg6
+I1100
+sg7
+Vnm0000216
+p3900
+sa(dp3901
+g4
+VMichael Biehn
+p3902
+sg6
+I2712
+sg7
+Vnm0000299
+p3903
+sa(dp3904
+g4
+VLinda Hamilton
+p3905
+sg6
+I2713
+sg7
+Vnm0000157
+p3906
+sa(dp3907
+g4
+VPaul Winfield
+p3908
+sg6
+I1818
+sg7
+Vnm0934902
+p3909
+sa(dp3910
+g4
+VLance Henriksen
+p3911
+sg6
+I2714
+sg7
+Vnm0000448
+p3912
+sasVtt0089881
+p3913
+(lp3914
+(dp3915
+g4
+VAkira Terao
+p3916
+sg6
+I70132
+sg7
+Vnm0855417
+p3917
+sa(dp3918
+g4
+VJinpachi Nezu
+p3919
+sg6
+I70133
+sg7
+Vnm0628704
+p3920
+sa(dp3921
+g4
+VDaisuke Ryû
+p3922
+sg6
+I70134
+sg7
+Vnm0753480
+p3923
+sa(dp3924
+g4
+VTatsuya Nakadai
+p3925
+sg6
+I70131
+sg7
+Vnm0619938
+p3926
+sasVtt0076759
+p3927
+(lp3928
+(dp3929
+g4
+VMark Hamill
+p3930
+sg6
+I2
+sg7
+Vnm0000434
+p3931
+sa(dp3932
+g4
+VHarrison Ford
+p3933
+sg6
+I3
+sg7
+Vnm0000148
+p3934
+sa(dp3935
+g4
+VCarrie Fisher
+p3936
+sg6
+I4
+sg7
+Vnm0000402
+p3937
+sa(dp3938
+g4
+VPeter Cushing
+p3939
+sg6
+I5
+sg7
+Vnm0001088
+p3940
+sa(dp3941
+g4
+VAlec Guinness
+p3942
+sg6
+I12248
+sg7
+Vnm0000027
+p3943
+sasVtt0103064
+p3944
+(lp3945
+(dp3946
+g4
+VArnold Schwarzenegger
+p3947
+sg6
+I1100
+sg7
+Vnm0000216
+p3948
+sa(dp3949
+g4
+VLinda Hamilton
+p3950
+sg6
+I2713
+sg7
+Vnm0000157
+p3951
+sa(dp3952
+g4
+VEdward Furlong
+p3953
+sg6
+I820
+sg7
+Vnm0000411
+p3954
+sa(dp3955
+g4
+VRobert Patrick
+p3956
+sg6
+I418
+sg7
+Vnm0001598
+p3957
+sa(dp3958
+g4
+VEarl Boen
+p3959
+sg6
+I2716
+sg7
+Vnm0091286
+p3960
+sasVtt0056801
+p3961
+(lp3962
+(dp3963
+g4
+VMarcello Mastroianni
+p3964
+sg6
+I5676
+sg7
+Vnm0000052
+p3965
+sa(dp3966
+g4
+VClaudia Cardinale
+p3967
+sg6
+I4959
+sg7
+Vnm0001012
+p3968
+sa(dp3969
+g4
+VAnouk Aimée
+p3970
+sg6
+I5682
+sg7
+Vnm0000733
+p3971
+sa(dp3972
+g4
+VSandra Milo
+p3973
+sg6
+I563808
+sg7
+g88
+sa(dp3974
+g4
+VRossella Falk
+p3975
+sg6
+I5684
+sg7
+Vnm0266194
+p3976
+sasVtt0395169
+p3977
+(lp3978
+(dp3979
+g4
+VDon Cheadle
+p3980
+sg6
+I1896
+sg7
+Vnm0000332
+p3981
+sa(dp3982
+g4
+VNick Nolte
+p3983
+sg6
+I1733
+sg7
+Vnm0000560
+p3984
+sa(dp3985
+g4
+VSophie Okonedo
+p3986
+sg6
+I2598
+sg7
+Vnm0645683
+p3987
+sa(dp3988
+g4
+VJoaquin Phoenix
+p3989
+sg6
+I73421
+sg7
+Vnm0001618
+p3990
+sa(dp3991
+g4
+VJean Reno
+p3992
+sg6
+I1003
+sg7
+Vnm0000606
+p3993
+sasVtt0031381
+p3994
+(lp3995
+(dp3996
+g4
+VVivien Leigh
+p3997
+sg6
+I10538
+sg7
+Vnm0000046
+p3998
+sa(dp3999
+g4
+VClark Gable
+p4000
+sg6
+I11492
+sg7
+Vnm0000022
+p4001
+sa(dp4002
+g4
+VOlivia de Havilland
+p4003
+sg6
+I8725
+sg7
+Vnm0000014
+p4004
+sa(dp4005
+g4
+VThomas Mitchell
+p4006
+sg6
+I3383
+sg7
+Vnm0593775
+p4007
+sa(dp4008
+g4
+VLeslie Howard
+p4009
+sg6
+I11493
+sg7
+Vnm0001366
+p4010
+sasVtt0477348
+p4011
+(lp4012
+(dp4013
+g4
+VTommy Lee Jones
+p4014
+sg6
+I2176
+sg7
+Vnm0000169
+p4015
+sa(dp4016
+g4
+VJavier Bardem
+p4017
+sg6
+I3810
+sg7
+Vnm0000849
+p4018
+sa(dp4019
+g4
+VJosh Brolin
+p4020
+sg6
+I16851
+sg7
+Vnm0000982
+p4021
+sa(dp4022
+g4
+VWoody Harrelson
+p4023
+sg6
+I57755
+sg7
+Vnm0000437
+p4024
+sa(dp4025
+g4
+VKelly Macdonald
+p4026
+sg6
+I9015
+sg7
+Vnm0531808
+p4027
+sasVtt0047296
+p4028
+(lp4029
+(dp4030
+g4
+VMarlon Brando
+p4031
+sg6
+I3084
+sg7
+Vnm0000008
+p4032
+sa(dp4033
+g4
+VKarl Malden
+p4034
+sg6
+I9857
+sg7
+Vnm0001500
+p4035
+sa(dp4036
+g4
+VLee J. Cobb
+p4037
+sg6
+I5248
+sg7
+Vnm0002011
+p4038
+sa(dp4039
+g4
+VRod Steiger
+p4040
+sg6
+I522
+sg7
+Vnm0001768
+p4041
+sa(dp4042
+g4
+VPat Henning
+p4043
+sg6
+I9862
+sg7
+Vnm0377416
+p4044
+sasVtt0120382
+p4045
+(lp4046
+(dp4047
+g4
+VJim Carrey
+p4048
+sg6
+I206
+sg7
+Vnm0000120
+p4049
+sa(dp4050
+g4
+VLaura Linney
+p4051
+sg6
+I350
+sg7
+Vnm0001473
+p4052
+sa(dp4053
+g4
+VNoah Emmerich
+p4054
+sg6
+I11315
+sg7
+Vnm0001187
+p4055
+sa(dp4056
+g4
+VNatascha McElhone
+p4057
+sg6
+I11317
+sg7
+Vnm0001523
+p4058
+sa(dp4059
+g4
+VEd Harris
+p4060
+sg6
+I228
+sg7
+Vnm0000438
+p4061
+sasVtt0120815
+p4062
+(lp4063
+(dp4064
+g4
+VTom Hanks
+p4065
+sg6
+I31
+sg7
+Vnm0000158
+p4066
+sa(dp4067
+g4
+VTom Sizemore
+p4068
+sg6
+I3197
+sg7
+Vnm0001744
+p4069
+sa(dp4070
+g4
+VDennis Farina
+p4071
+sg6
+I1117
+sg7
+Vnm0001199
+p4072
+sa(dp4073
+g4
+VMax Martini
+p4074
+sg6
+I94864
+sg7
+Vnm0242882
+p4075
+sa(dp4076
+g4
+VJoerg Stadler
+p4077
+sg6
+I12838
+sg7
+Vnm0821152
+p4078
+sasVtt0910970
+p4079
+(lp4080
+(dp4081
+g4
+VBen Burtt
+p4082
+sg6
+I670
+sg7
+Vnm0123785
+p4083
+sa(dp4084
+g4
+VElissa Knight
+p4085
+sg6
+I72754
+sg7
+Vnm2264184
+p4086
+sa(dp4087
+g4
+VJeff Garlin
+p4088
+sg6
+I60074
+sg7
+Vnm0307531
+p4089
+sa(dp4090
+g4
+VFred Willard
+p4091
+sg6
+I20753
+sg7
+Vnm0929609
+p4092
+sa(dp4093
+g4
+VJohn Ratzenberger
+p4094
+sg6
+I7907
+sg7
+Vnm0001652
+p4095
+sasVtt0086250
+p4096
+(lp4097
+(dp4098
+g4
+VAl Pacino
+p4099
+sg6
+I1158
+sg7
+Vnm0000199
+p4100
+sa(dp4101
+g4
+VSteven Bauer
+p4102
+sg6
+I1159
+sg7
+Vnm0000874
+p4103
+sa(dp4104
+g4
+VMichelle Pfeiffer
+p4105
+sg6
+I1160
+sg7
+Vnm0000201
+p4106
+sa(dp4107
+g4
+VMary Elizabeth Mastrantonio
+p4108
+sg6
+I1161
+sg7
+Vnm0001512
+p4109
+sa(dp4110
+g4
+VRobert Loggia
+p4111
+sg6
+I1162
+sg7
+Vnm0005162
+p4112
+sasVtt0073486
+p4113
+(lp4114
+(dp4115
+g4
+VJack Nicholson
+p4116
+sg6
+I514
+sg7
+Vnm0000197
+p4117
+sa(dp4118
+g4
+VLouise Fletcher
+p4119
+sg6
+I7071
+sg7
+Vnm0001221
+p4120
+sa(dp4121
+g4
+VDanny DeVito
+p4122
+sg6
+I518
+sg7
+Vnm0000362
+p4123
+sa(dp4124
+g4
+VWilliam Redfield
+p4125
+sg6
+I7072
+sg7
+Vnm0714835
+p4126
+sa(dp4127
+g4
+VScatman Crothers
+p4128
+sg6
+I7077
+sg7
+Vnm0001079
+p4129
+sasVtt0209144
+p4130
+(lp4131
+(dp4132
+g4
+VGuy Pearce
+p4133
+sg6
+I529
+sg7
+Vnm0001602
+p4134
+sa(dp4135
+g4
+VCarrie-Anne Moss
+p4136
+sg6
+I530
+sg7
+Vnm0005251
+p4137
+sa(dp4138
+g4
+VJoe Pantoliano
+p4139
+sg6
+I532
+sg7
+Vnm0001592
+p4140
+sa(dp4141
+g4
+VMark Boone Junior
+p4142
+sg6
+I534
+sg7
+Vnm0095478
+p4143
+sa(dp4144
+g4
+VRuss Fega
+p4145
+sg6
+I535
+sg7
+Vnm0270383
+p4146
+sasVtt0208092
+p4147
+(lp4148
+(dp4149
+g4
+VJason Statham
+p4150
+sg6
+I976
+sg7
+Vnm0005458
+p4151
+sa(dp4152
+g4
+VBrad Pitt
+p4153
+sg6
+I287
+sg7
+Vnm0000093
+p4154
+sa(dp4155
+g4
+VStephen Graham
+p4156
+sg6
+I1115
+sg7
+Vnm0334318
+p4157
+sa(dp4158
+g4
+VVinnie Jones
+p4159
+sg6
+I980
+sg7
+Vnm0005068
+p4160
+sa(dp4161
+g4
+VAlan Ford
+p4162
+sg6
+I1116
+sg7
+Vnm0285495
+p4163
+sasVtt1028532
+p4164
+(lp4165
+(dp4166
+g4
+VRichard Gere
+p4167
+sg6
+I1205
+sg7
+Vnm0000152
+p4168
+sa(dp4169
+g4
+VJoan Allen
+p4170
+sg6
+I11148
+sg7
+Vnm0000260
+p4171
+sa(dp4172
+g4
+VJason Alexander
+p4173
+sg6
+I1206
+sg7
+Vnm0004517
+p4174
+sa(dp4175
+g4
+VCary-Hiroyuki Tagawa
+p4176
+sg6
+I11398
+sg7
+Vnm0846480
+p4177
+sa(dp4178
+g4
+VSarah Roemer
+p4179
+sg6
+I20376
+sg7
+Vnm2105255
+p4180
+sasVtt0075314
+p4181
+(lp4182
+(dp4183
+g4
+VRobert De Niro
+p4184
+sg6
+I380
+sg7
+Vnm0000134
+p4185
+sa(dp4186
+g4
+VCybill Shepherd
+p4187
+sg6
+I1036
+sg7
+Vnm0001732
+p4188
+sa(dp4189
+g4
+VHarvey Keitel
+p4190
+sg6
+I1037
+sg7
+Vnm0000172
+p4191
+sa(dp4192
+g4
+VJodie Foster
+p4193
+sg6
+I1038
+sg7
+Vnm0000149
+p4194
+sa(dp4195
+g4
+VPeter Boyle
+p4196
+sg6
+I1039
+sg7
+Vnm0001967
+p4197
+sasVtt0043014
+p4198
+(lp4199
+(dp4200
+g4
+VWilliam Holden
+p4201
+sg6
+I8252
+sg7
+Vnm0000034
+p4202
+sa(dp4203
+g4
+VGloria Swanson
+p4204
+sg6
+I8629
+sg7
+Vnm0841797
+p4205
+sa(dp4206
+g4
+VErich von Stroheim
+p4207
+sg6
+I8630
+sg7
+Vnm0002233
+p4208
+sa(dp4209
+g4
+VNancy Olson
+p4210
+sg6
+I8631
+sg7
+Vnm0647970
+p4211
+sa(dp4212
+g4
+VFred Clark
+p4213
+sg6
+I8632
+sg7
+Vnm0163939
+p4214
+sas.
